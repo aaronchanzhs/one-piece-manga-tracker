@@ -1,0 +1,107 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Manga Rare Tracker</title>
+  <meta name="description" content="Price tracker for One Piece Card Game manga rares, English (TCGplayer) and Japanese (Yuyu-tei).">
+  <link rel="icon" href="data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 32 32'><rect width='32' height='32' rx='6' fill='%23111'/><path d='M7 23V9l9 8 9-8v14' stroke='%23e63946' stroke-width='3.5' fill='none' stroke-linejoin='round'/></svg>">
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Anton&family=Inter:wght@400;500;600;700&family=JetBrains+Mono:wght@500;600&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+  <header class="masthead">
+    <div class="wrap masthead-inner">
+      <div>
+        <p class="kicker">One Piece Card Game</p>
+        <h1>Manga Rare <span>Tracker</span></h1>
+        <p class="sub">Every manga rare, priced in English and Japanese.</p>
+      </div>
+      <dl class="meta" id="meta" aria-live="polite"></dl>
+    </div>
+  </header>
+
+  <main class="wrap">
+    <section class="stats" id="stats" aria-label="Summary"></section>
+
+    <section class="controls" aria-label="Filters">
+      <label class="search">
+        <span class="visually-hidden">Search cards</span>
+        <svg viewBox="0 0 24 24" aria-hidden="true"><circle cx="11" cy="11" r="7"/><path d="m20 20-3.5-3.5"/></svg>
+        <input id="q" type="search" placeholder="Search Luffy, ルフィ, OP05-119…" autocomplete="off">
+      </label>
+
+      <div class="seg" role="group" aria-label="Market">
+        <button data-market="all" aria-pressed="true">Both</button>
+        <button data-market="en" aria-pressed="false">English</button>
+        <button data-market="jp" aria-pressed="false">Japanese</button>
+      </div>
+
+      <div class="seg" role="group" aria-label="Currency">
+        <button data-cur="USD" aria-pressed="true">USD</button>
+        <button data-cur="JPY" aria-pressed="false">JPY</button>
+      </div>
+
+      <label class="select">
+        <span>Set</span>
+        <select id="set"><option value="">All sets</option></select>
+      </label>
+
+      <label class="select">
+        <span>Sort</span>
+        <select id="sort">
+          <option value="price-desc">Price: high → low</option>
+          <option value="price-asc">Price: low → high</option>
+          <option value="chg-desc">30-day change: best</option>
+          <option value="chg-asc">30-day change: worst</option>
+          <option value="premium-desc">Japan premium: highest</option>
+          <option value="number">Card number</option>
+          <option value="newest">Newest release</option>
+        </select>
+      </label>
+
+      <div class="seg" role="group" aria-label="View">
+        <button data-view="grid" aria-pressed="true" title="Grid view">Grid</button>
+        <button data-view="table" aria-pressed="false" title="Table view">Table</button>
+      </div>
+    </section>
+
+    <p class="result-count" id="count" aria-live="polite"></p>
+    <section id="list" class="grid" aria-label="Cards"></section>
+    <p class="empty" id="empty" hidden>No cards match. Try a different search or set.</p>
+
+    <section class="notes" aria-labelledby="notes-h">
+      <h2 id="notes-h">What the prices mean</h2>
+      <div class="notes-grid">
+        <div>
+          <h3><span class="flag en">EN</span> English: TCGplayer</h3>
+          <p><strong>Market</strong> is TCGplayer's Market Price, based on recent completed sales. Many $1,000+ manga rares sell rarely, so when there is no Market Price the tracker shows the <strong>lowest current listing</strong> instead, marked “listed”.</p>
+          <p>Data comes from <a href="https://tcgcsv.com" rel="noopener">tcgcsv.com</a>, a free daily mirror of TCGplayer prices, refreshed once a day around 20:00 UTC.</p>
+        </div>
+        <div>
+          <h3><span class="flag jp">JP</span> Japanese: Yuyu-tei (遊々亭)</h3>
+          <p><strong>Sell</strong> is the shop's asking price. Manga rares are almost always sold out, and Yuyu-tei then keeps showing the last asking price, so a sold-out sell price can be stale.</p>
+          <p><strong>Buy</strong> is what Yuyu-tei pays to buy the card from you. It stays current even when the card is out of stock, so it is the better live signal for Japanese prices.</p>
+        </div>
+        <div>
+          <h3>Currency and “Japan premium”</h3>
+          <p>Yen are converted at the daily ECB reference rate (via frankfurter.dev). The <strong>Japan premium</strong> compares Yuyu-tei's sell price with the English price. Positive means the Japanese copy costs more.</p>
+          <p><strong>PRB</strong> marks Premium Booster reprints, which TCGplayer and Yuyu-tei list separately from the original print. <strong>Red</strong> marks OP13's red manga variants.</p>
+        </div>
+      </div>
+    </section>
+  </main>
+
+  <footer class="wrap footer">
+    <p>Not affiliated with Bandai, TCGplayer, or Yuyu-tei. Prices are for reference only. Card images © their owners.</p>
+  </footer>
+
+  <dialog id="detail" aria-labelledby="d-title">
+    <div class="d-inner" id="d-body"></div>
+  </dialog>
+
+  <script src="app.js" type="module"></script>
+</body>
+</html>

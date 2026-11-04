@@ -1,0 +1,56 @@
+# Refreshes prices once a day and publishes public/ to GitHub Pages.
+# Setup: push this repo to GitHub, then Settings → Pages → Source: "GitHub Actions".
+# Commits made by this workflow don't trigger other workflows, so the deploy
+# lives in the same file.
+
+name: Update prices and deploy
+
+on:
+  schedule:
+    - cron: '30 21 * * *' # 21:30 UTC, after tcgcsv's ~20:00 UTC TCGplayer refresh
+  workflow_dispatch:
+  push:
+    branches: [main]
+
+permissions:
+  contents: write
+  pages: write
+  id-token: write
+
+concurrency:
+  group: prices
+  cancel-in-progress: false
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 22
+      - name: Fetch prices
+        if: github.event_name != 'push'
+        run: node scripts/update.mjs
+      - name: Commit data
+        if: github.event_name != 'push'
+        run: |
+          git config user.name "price-bot"
+          git config user.email "price-bot@users.noreply.github.com"
+          git add public/data
+          git diff --cached --quiet || git commit -m "Update prices $(date -u +%F)"
+          git push
+      - uses: actions/configure-pages@v5
+      - uses: actions/upload-pages-artifact@v3
+        with:
+          path: public
+
+  deploy:
+    needs: update
+    runs-on: ubuntu-latest
+    environment:
+      name: github-pages
+      url: ${{ steps.deploy.outputs.page_url }}
+    steps:
+      - id: deploy
+        uses: actions/deploy-pages@v4

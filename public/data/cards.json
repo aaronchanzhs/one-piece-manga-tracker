@@ -1,0 +1,2075 @@
+{
+ "updatedAt": "2026-11-04T08:14:28.863Z",
+ "date": "2026-11-04",
+ "usdJpy": 158.29,
+ "sources": {
+  "tcgplayer": {
+   "via": "tcgcsv.com",
+   "lastUpdated": "2026-11-03T20:06:12+0000"
+  },
+  "yuyutei": {
+   "fetched": true
+  }
+ },
+ "warnings": [],
+ "cards": [
+  {
+   "id": "EB01-006",
+   "number": "EB01-006",
+   "variant": "manga",
+   "print": "original",
+   "setCode": "EB01",
+   "setName": "Extra Booster: Memorial Collection",
+   "name": "Tony Tony.Chopper",
+   "nameJa": "トニートニー・チョッパー",
+   "rarity": "SR",
+   "en": {
+    "productId": 544532,
+    "productName": "Tony Tony.Chopper (Alternate Art) (Manga)",
+    "groupId": 23333,
+    "groupName": "Extra Booster: Memorial Collection",
+    "url": "https://www.tcgplayer.com/product/544532/one-piece-card-game-extra-booster-memorial-collection-tony-tonychopper-alternate-art-manga",
+    "thumb": "https://tcgplayer-cdn.tcgplayer.com/product/544532_200w.jpg",
+    "image": "https://tcgplayer-cdn.tcgplayer.com/product/544532_in_1000x1000.jpg",
+    "released": "2024-05-03"
+   },
+   "jp": {
+    "ver": "eb01",
+    "yuyuteiId": "10010",
+    "listingName": "トニートニー・チョッパー(パラレル)(スーパーパラレル)",
+    "url": "https://yuyu-tei.jp/sell/opc/card/eb01/10010",
+    "thumb": "https://card.yuyu-tei.jp/opc/100_140/eb01/10010.jpg",
+    "image": "https://card.yuyu-tei.jp/opc/front/eb01/10010.jpg"
+   },
+   "price": {
+    "en": {
+     "market": 2999.99,
+     "low": 5000,
+     "mid": 5250
+    },
+    "jp": {
+     "sell": 198000,
+     "buy": 120000,
+     "stock": 0
+    }
+   }
+  },
+  {
+   "id": "EB01-006-prb",
+   "number": "EB01-006",
+   "variant": "manga",
+   "print": "reprint",
+   "setCode": "EB01",
+   "setName": "Extra Booster: Memorial Collection",
+   "name": "Tony Tony.Chopper",
+   "nameJa": null,
+   "rarity": "SR",
+   "en": {
+    "productId": 587962,
+    "productName": "Tony Tony.Chopper (EB01-006) (Manga)",
+    "groupId": 23496,
+    "groupName": "Premium Booster -The Best-",
+    "url": "https://www.tcgplayer.com/product/587962/one-piece-card-game-premium-booster-the-best-tony-tonychopper-eb01-006-manga",
+    "thumb": "https://tcgplayer-cdn.tcgplayer.com/product/587962_200w.jpg",
+    "image": "https://tcgplayer-cdn.tcgplayer.com/product/587962_in_1000x1000.jpg",
+    "released": "2024-11-08"
+   },
+   "jp": null,
+   "price": {
+    "en": {
+     "market": 3000,
+     "low": 2999.99,
+     "mid": 26500.49
+    },
+    "jp": null
+   }
+  },
+  {
+   "id": "EB02-061",
+   "number": "EB02-061",
+   "variant": "manga",
+   "print": "original",
+   "setCode": "EB02",
+   "setName": "Extra Booster: Anime 25th Collection",
+   "name": "Monkey.D.Luffy",
+   "nameJa": "モンキー・D・ルフィ",
+   "rarity": "SEC",
+   "en": {
+    "productId": 629167,
+    "productName": "Monkey.D.Luffy (061) (Manga)",
+    "groupId": 23834,
+    "groupName": "Extra Booster: Anime 25th Collection",
+    "url": "https://www.tcgplayer.com/product/629167/one-piece-card-game-extra-booster-anime-25th-collection-monkeydluffy-061-manga",
+    "thumb": "https://tcgplayer-cdn.tcgplayer.com/product/629167_200w.jpg",
+    "image": "https://tcgplayer-cdn.tcgplayer.com/product/629167_in_1000x1000.jpg",
+    "released": "2025-05-09"
+   },
+   "jp": {
+    "ver": "eb02",
+    "yuyuteiId": "10079",
+    "listingName": "モンキー・D・ルフィ(パラレル)(スーパーパラレル)",
+    "url": "https://yuyu-tei.jp/sell/opc/card/eb02/10079",
+    "thumb": "https://card.yuyu-tei.jp/opc/100_140/eb02/10079.jpg",
+    "image": "https://card.yuyu-tei.jp/opc/front/eb02/10079.jpg"
+   },
+   "price": {
+    "en": null,
+    "jp": {
+     "sell": 398000,
+     "buy": 300000,
+     "stock": 0
+    }
+   }
+  },
+  {
+   "id": "EB03-061",
+   "number": "EB03-061",
+   "variant": "manga",
+   "print": "original",
+   "setCode": "EB03",
+   "setName": "Extra Booster: One Piece Heroines Edition",
+   "name": "Uta",
+   "nameJa": "ウタ",
+   "rarity": "SEC",
+   "en": {
+    "productId": 672817,
+    "productName": "Uta (061) (Manga)",
+    "groupId": 24545,
+    "groupName": "Extra Booster: One Piece Heroines Edition",
+    "url": "https://www.tcgplayer.com/product/672817/one-piece-card-game-extra-booster-one-piece-heroines-edition-uta-061-manga",
+    "thumb": "https://tcgplayer-cdn.tcgplayer.com/product/672817_200w.jpg",
+    "image": "https://tcgplayer-cdn.tcgplayer.com/product/672817_in_1000x1000.jpg",
+    "released": "2026-02-20"
+   },
+   "jp": {
+    "ver": "eb03",
+    "yuyuteiId": "10079",
+    "listingName": "ウタ(パラレル)(スーパーパラレル)",
+    "url": "https://yuyu-tei.jp/sell/opc/card/eb03/10079",
+    "thumb": "https://card.yuyu-tei.jp/opc/100_140/eb03/10079.jpg",
+    "image": "https://card.yuyu-tei.jp/opc/front/eb03/10079.jpg"
+   },
+   "price": {
+    "en": {
+     "market": 930.76,
+     "low": 775,
+     "mid": 921.45
+    },
+    "jp": {
+     "sell": 99800,
+     "buy": 70000,
+     "stock": 0
+    }
+   }
+  },
+  {
+   "id": "EB04-044",
+   "number": "EB04-044",
+   "variant": "manga",
+   "print": "original",
+   "setCode": "EB04",
+   "setName": "Adventure on Kami's Island",
+   "name": "Koby",
+   "nameJa": "コビー",
+   "rarity": "SR",
+   "en": {
+    "productId": 685313,
+    "productName": "Koby (EB04-044) (Manga)",
+    "groupId": 24637,
+    "groupName": "Adventure on Kami's Island",
+    "url": "https://www.tcgplayer.com/product/685313/one-piece-card-game-adventure-on-kamis-island-koby-eb04-044-manga",
+    "thumb": "https://tcgplayer-cdn.tcgplayer.com/product/685313_200w.jpg",
+    "image": "https://tcgplayer-cdn.tcgplayer.com/product/685313_in_1000x1000.jpg",
+    "released": "2026-04-03"
+   },
+   "jp": {
+    "ver": "eb04",
+    "yuyuteiId": "10058",
+    "listingName": "コビー(パラレル)(スーパーパラレル)",
+    "url": "https://yuyu-tei.jp/sell/opc/card/eb04/10058",
+    "thumb": "https://card.yuyu-tei.jp/opc/100_140/eb04/10058.jpg",
+    "image": "https://card.yuyu-tei.jp/opc/front/eb04/10058.jpg"
+   },
+   "price": {
+    "en": {
+     "market": 591.54,
+     "low": 427.61,
+     "mid": 585.49
+    },
+    "jp": {
+     "sell": 79800,
+     "buy": 55000,
+     "stock": 0
+    }
+   }
+  },
+  {
+   "id": "EB05-010",
+   "number": "EB05-010",
+   "variant": "manga",
+   "print": "original",
+   "setCode": "EB05",
+   "setName": "Extra Booster: One Piece Heroines Edition Vol. 2",
+   "name": "Nico Robin",
+   "nameJa": "ニコ・ロビン",
+   "rarity": "L",
+   "en": {
+    "productId": 726218,
+    "productName": "Nico Robin (010) (Super Leader Alternate Art)",
+    "groupId": 24820,
+    "groupName": "Extra Booster: One Piece Heroines Edition Vol. 2",
+    "url": "https://www.tcgplayer.com/product/726218/one-piece-card-game-extra-booster-one-piece-heroines-edition-vol-2-nico-robin-010-super-leader-alternate-art",
+    "thumb": "https://tcgplayer-cdn.tcgplayer.com/product/726218_200w.jpg",
+    "image": "https://tcgplayer-cdn.tcgplayer.com/product/726218_in_1000x1000.jpg",
+    "released": "2026-10-30"
+   },
+   "jp": {
+    "ver": "eb05",
+    "yuyuteiId": "10015",
+    "listingName": "ニコ・ロビン(パラレル)(スーパーパラレル)",
+    "url": "https://yuyu-tei.jp/sell/opc/card/eb05/10015",
+    "thumb": "https://card.yuyu-tei.jp/opc/100_140/eb05/10015.jpg",
+    "image": "https://card.yuyu-tei.jp/opc/front/eb05/10015.jpg"
+   },
+   "price": {
+    "en": {
+     "market": 1193.36,
+     "low": 1195.7,
+     "mid": 1287.2
+    },
+    "jp": {
+     "sell": 99800,
+     "buy": 70000,
+     "stock": 0
+    }
+   }
+  },
+  {
+   "id": "EB05-014",
+   "number": "EB05-014",
+   "variant": "manga",
+   "print": "original",
+   "setCode": "EB05",
+   "setName": "Extra Booster: One Piece Heroines Edition Vol. 2",
+   "name": "Shirahoshi",
+   "nameJa": "しらほし",
+   "rarity": "SR",
+   "en": {
+    "productId": 718677,
+    "productName": "Shirahoshi (Manga)",
+    "groupId": 24820,
+    "groupName": "Extra Booster: One Piece Heroines Edition Vol. 2",
+    "url": "https://www.tcgplayer.com/product/718677/one-piece-card-game-extra-booster-one-piece-heroines-edition-vol-2-shirahoshi-manga",
+    "thumb": "https://tcgplayer-cdn.tcgplayer.com/product/718677_200w.jpg",
+    "image": "https://tcgplayer-cdn.tcgplayer.com/product/718677_in_1000x1000.jpg",
+    "released": "2026-10-30"
+   },
+   "jp": {
+    "ver": "eb05",
+    "yuyuteiId": "10021",
+    "listingName": "しらほし(パラレル)(スーパーパラレル)",
+    "url": "https://yuyu-tei.jp/sell/opc/card/eb05/10021",
+    "thumb": "https://card.yuyu-tei.jp/opc/100_140/eb05/10021.jpg",
+    "image": "https://card.yuyu-tei.jp/opc/front/eb05/10021.jpg"
+   },
+   "price": {
+    "en": {
+     "market": null,
+     "low": 677.66,
+     "mid": 798.19
+    },
+    "jp": {
+     "sell": 79800,
+     "buy": 60000,
+     "stock": 0
+    }
+   }
+  },
+  {
+   "id": "OP01-016-prb",
+   "number": "OP01-016",
+   "variant": "manga",
+   "print": "reprint",
+   "setCode": "OP01",
+   "setName": "Romance Dawn",
+   "name": "Nami",
+   "nameJa": "ナミ",
+   "rarity": "R",
+   "en": {
+    "productId": 587966,
+    "productName": "Nami (OP01-016) (Manga)",
+    "groupId": 23496,
+    "groupName": "Premium Booster -The Best-",
+    "url": "https://www.tcgplayer.com/product/587966/one-piece-card-game-premium-booster-the-best-nami-op01-016-manga",
+    "thumb": "https://tcgplayer-cdn.tcgplayer.com/product/587966_200w.jpg",
+    "image": "https://tcgplayer-cdn.tcgplayer.com/product/587966_in_1000x1000.jpg",
+    "released": "2024-11-08"
+   },
+   "jp": {
+    "ver": "prb01",
+    "yuyuteiId": "10006",
+    "listingName": "ナミ(パラレル)(スーパーパラレル)",
+    "url": "https://yuyu-tei.jp/sell/opc/card/prb01/10006",
+    "thumb": "https://card.yuyu-tei.jp/opc/100_140/prb01/10006.jpg",
+    "image": "https://card.yuyu-tei.jp/opc/front/prb01/10006.jpg"
+   },
+   "price": {
+    "en": {
+     "market": 2043.68,
+     "low": 1655.66,
+     "mid": 2071.84
+    },
+    "jp": {
+     "sell": 99800,
+     "buy": 60000,
+     "stock": 0
+    }
+   }
+  },
+  {
+   "id": "OP01-120",
+   "number": "OP01-120",
+   "variant": "manga",
+   "print": "original",
+   "setCode": "OP01",
+   "setName": "Romance Dawn",
+   "name": "Shanks",
+   "nameJa": "シャンクス",
+   "rarity": "SEC",
+   "en": {
+    "productId": 454666,
+    "productName": "Shanks (Parallel) (Manga) (Alternate Art)",
+    "groupId": 3188,
+    "groupName": "Romance Dawn",
+    "url": "https://www.tcgplayer.com/product/454666/one-piece-card-game-romance-dawn-shanks-parallel-manga-alternate-art",
+    "thumb": "https://tcgplayer-cdn.tcgplayer.com/product/454666_200w.jpg",
+    "image": "https://tcgplayer-cdn.tcgplayer.com/product/454666_in_1000x1000.jpg",
+    "released": "2022-12-02"
+   },
+   "jp": {
+    "ver": "op01",
+    "yuyuteiId": "10152",
+    "listingName": "シャンクス(パラレル)(スーパーパラレル)(刻印なし)",
+    "url": "https://yuyu-tei.jp/sell/opc/card/op01/10152",
+    "thumb": "https://card.yuyu-tei.jp/opc/100_140/op01/10152.jpg",
+    "image": "https://card.yuyu-tei.jp/opc/front/op01/10152.jpg"
+   },
+   "price": {
+    "en": {
+     "market": 3998.74,
+     "low": 2459,
+     "mid": 3368.9
+    },
+    "jp": {
+     "sell": 128000,
+     "buy": 90000,
+     "stock": 0
+    }
+   }
+  },
+  {
+   "id": "OP01-120-prb",
+   "number": "OP01-120",
+   "variant": "manga",
+   "print": "reprint",
+   "setCode": "OP01",
+   "setName": "Romance Dawn",
+   "name": "Shanks",
+   "nameJa": "シャンクス",
+   "rarity": "SEC",
+   "en": {
+    "productId": 587708,
+    "productName": "Shanks (Manga)",
+    "groupId": 23496,
+    "groupName": "Premium Booster -The Best-",
+    "url": "https://www.tcgplayer.com/product/587708/one-piece-card-game-premium-booster-the-best-shanks-manga",
+    "thumb": "https://tcgplayer-cdn.tcgplayer.com/product/587708_200w.jpg",
+    "image": "https://tcgplayer-cdn.tcgplayer.com/product/587708_in_1000x1000.jpg",
+    "released": "2024-11-08"
+   },
+   "jp": {
+    "ver": "prb01",
+    "yuyuteiId": "10024",
+    "listingName": "シャンクス(パラレル)(スーパーパラレル)(刻印あり)",
+    "url": "https://yuyu-tei.jp/sell/opc/card/prb01/10024",
+    "thumb": null,
+    "image": null
+   },
+   "price": {
+    "en": {
+     "market": 1221.56,
+     "low": 1199.99,
+     "mid": 1999.99
+    },
+    "jp": {
+     "sell": 198000,
+     "buy": 100000,
+     "stock": 0
+    }
+   }
+  },
+  {
+   "id": "OP02-013",
+   "number": "OP02-013",
+   "variant": "manga",
+   "print": "original",
+   "setCode": "OP02",
+   "setName": "Paramount War",
+   "name": "Portgas.D.Ace",
+   "nameJa": "ポートガス・D・エース",
+   "rarity": "SR",
+   "en": {
+    "productId": 485862,
+    "productName": "Portgas.D.Ace (Parallel) (Manga) (Alternate Art)",
+    "groupId": 17698,
+    "groupName": "Paramount War",
+    "url": "https://www.tcgplayer.com/product/485862/one-piece-card-game-paramount-war-portgasdace-parallel-manga-alternate-art",
+    "thumb": "https://tcgplayer-cdn.tcgplayer.com/product/485862_200w.jpg",
+    "image": "https://tcgplayer-cdn.tcgplayer.com/product/485862_in_1000x1000.jpg",
+    "released": "2023-03-10"
+   },
+   "jp": {
+    "ver": "op02",
+    "yuyuteiId": "10019",
+    "listingName": "ポートガス・D・エース(パラレル)(スーパーパラレル)(刻印なし)",
+    "url": "https://yuyu-tei.jp/sell/opc/card/op02/10019",
+    "thumb": "https://card.yuyu-tei.jp/opc/100_140/op02/10019.jpg",
+    "image": "https://card.yuyu-tei.jp/opc/front/op02/10019.jpg"
+   },
+   "price": {
+    "en": {
+     "market": 1700,
+     "low": 2994.99,
+     "mid": 2994.99
+    },
+    "jp": {
+     "sell": 148000,
+     "buy": 80000,
+     "stock": 0
+    }
+   }
+  },
+  {
+   "id": "OP02-013-prb",
+   "number": "OP02-013",
+   "variant": "manga",
+   "print": "reprint",
+   "setCode": "OP02",
+   "setName": "Paramount War",
+   "name": "Portgas.D.Ace",
+   "nameJa": "ポートガス・D・エース",
+   "rarity": "SR",
+   "en": {
+    "productId": 587709,
+    "productName": "Portgas.D.Ace (Manga)",
+    "groupId": 23496,
+    "groupName": "Premium Booster -The Best-",
+    "url": "https://www.tcgplayer.com/product/587709/one-piece-card-game-premium-booster-the-best-portgasdace-manga",
+    "thumb": "https://tcgplayer-cdn.tcgplayer.com/product/587709_200w.jpg",
+    "image": "https://tcgplayer-cdn.tcgplayer.com/product/587709_in_1000x1000.jpg",
+    "released": "2024-11-08"
+   },
+   "jp": {
+    "ver": "prb01",
+    "yuyuteiId": "10028",
+    "listingName": "ポートガス・D・エース(パラレル)(スーパーパラレル)(刻印あり)",
+    "url": "https://yuyu-tei.jp/sell/opc/card/prb01/10028",
+    "thumb": null,
+    "image": null
+   },
+   "price": {
+    "en": {
+     "market": null,
+     "low": 2040,
+     "mid": 2401.49
+    },
+    "jp": {
+     "sell": 198000,
+     "buy": 100000,
+     "stock": 0
+    }
+   }
+  },
+  {
+   "id": "OP03-122",
+   "number": "OP03-122",
+   "variant": "manga",
+   "print": "original",
+   "setCode": "OP03",
+   "setName": "Pillars of Strength",
+   "name": "Sogeking",
+   "nameJa": "そげキング",
+   "rarity": "SEC",
+   "en": {
+    "productId": 500118,
+    "productName": "Sogeking (Alternate Art) (Manga)",
+    "groupId": 22890,
+    "groupName": "Pillars of Strength",
+    "url": "https://www.tcgplayer.com/product/500118/one-piece-card-game-pillars-of-strength-sogeking-alternate-art-manga",
+    "thumb": "https://tcgplayer-cdn.tcgplayer.com/product/500118_200w.jpg",
+    "image": "https://tcgplayer-cdn.tcgplayer.com/product/500118_in_1000x1000.jpg",
+    "released": "2023-06-30"
+   },
+   "jp": {
+    "ver": "op03",
+    "yuyuteiId": "10148",
+    "listingName": "そげキング(パラレル)(スーパーパラレル)(刻印なし)",
+    "url": "https://yuyu-tei.jp/sell/opc/card/op03/10148",
+    "thumb": "https://card.yuyu-tei.jp/opc/100_140/op03/10148.jpg",
+    "image": "https://card.yuyu-tei.jp/opc/front/op03/10148.jpg"
+   },
+   "price": {
+    "en": {
+     "market": 914.48,
+     "low": 749.99,
+     "mid": 960.2
+    },
+    "jp": {
+     "sell": 79800,
+     "buy": 40000,
+     "stock": 1
+    }
+   }
+  },
+  {
+   "id": "OP03-122-prb",
+   "number": "OP03-122",
+   "variant": "manga",
+   "print": "reprint",
+   "setCode": "OP03",
+   "setName": "Pillars of Strength",
+   "name": "Sogeking",
+   "nameJa": "そげキング",
+   "rarity": "SEC",
+   "en": {
+    "productId": 587710,
+    "productName": "Sogeking (Manga)",
+    "groupId": 23496,
+    "groupName": "Premium Booster -The Best-",
+    "url": "https://www.tcgplayer.com/product/587710/one-piece-card-game-premium-booster-the-best-sogeking-manga",
+    "thumb": "https://tcgplayer-cdn.tcgplayer.com/product/587710_200w.jpg",
+    "image": "https://tcgplayer-cdn.tcgplayer.com/product/587710_in_1000x1000.jpg",
+    "released": "2024-11-08"
+   },
+   "jp": {
+    "ver": "prb01",
+    "yuyuteiId": "10075",
+    "listingName": "そげキング(パラレル)(スーパーパラレル)(刻印あり)",
+    "url": "https://yuyu-tei.jp/sell/opc/card/prb01/10075",
+    "thumb": "https://card.yuyu-tei.jp/opc/100_140/prb01/10075.jpg",
+    "image": "https://card.yuyu-tei.jp/opc/front/prb01/10075.jpg"
+   },
+   "price": {
+    "en": {
+     "market": 592.2,
+     "low": 680,
+     "mid": 714
+    },
+    "jp": {
+     "sell": 79800,
+     "buy": 40000,
+     "stock": 0
+    }
+   }
+  },
+  {
+   "id": "OP04-083",
+   "number": "OP04-083",
+   "variant": "manga",
+   "print": "original",
+   "setCode": "OP04",
+   "setName": "Kingdoms of Intrigue",
+   "name": "Sabo",
+   "nameJa": "サボ",
+   "rarity": "SR",
+   "en": {
+    "productId": 516558,
+    "productName": "Sabo (Alternate Art) (Manga)",
+    "groupId": 23024,
+    "groupName": "Kingdoms of Intrigue",
+    "url": "https://www.tcgplayer.com/product/516558/one-piece-card-game-kingdoms-of-intrigue-sabo-alternate-art-manga",
+    "thumb": "https://tcgplayer-cdn.tcgplayer.com/product/516558_200w.jpg",
+    "image": "https://tcgplayer-cdn.tcgplayer.com/product/516558_in_1000x1000.jpg",
+    "released": "2023-09-22"
+   },
+   "jp": {
+    "ver": "op04",
+    "yuyuteiId": "10102",
+    "listingName": "サボ(パラレル)(スーパーパラレル)(刻印なし)",
+    "url": "https://yuyu-tei.jp/sell/opc/card/op04/10102",
+    "thumb": "https://card.yuyu-tei.jp/opc/100_140/op04/10102.jpg",
+    "image": "https://card.yuyu-tei.jp/opc/front/op04/10102.jpg"
+   },
+   "price": {
+    "en": {
+     "market": 749.48,
+     "low": 599.99,
+     "mid": 710
+    },
+    "jp": {
+     "sell": 99800,
+     "buy": 50000,
+     "stock": 0
+    }
+   }
+  },
+  {
+   "id": "OP04-083-prb",
+   "number": "OP04-083",
+   "variant": "manga",
+   "print": "reprint",
+   "setCode": "OP04",
+   "setName": "Kingdoms of Intrigue",
+   "name": "Sabo",
+   "nameJa": "サボ",
+   "rarity": "SR",
+   "en": {
+    "productId": 587958,
+    "productName": "Sabo (OP04-083) (Manga)",
+    "groupId": 23496,
+    "groupName": "Premium Booster -The Best-",
+    "url": "https://www.tcgplayer.com/product/587958/one-piece-card-game-premium-booster-the-best-sabo-op04-083-manga",
+    "thumb": "https://tcgplayer-cdn.tcgplayer.com/product/587958_200w.jpg",
+    "image": "https://tcgplayer-cdn.tcgplayer.com/product/587958_in_1000x1000.jpg",
+    "released": "2024-11-08"
+   },
+   "jp": {
+    "ver": "prb01",
+    "yuyuteiId": "10089",
+    "listingName": "サボ(パラレル)(スーパーパラレル)(刻印あり)",
+    "url": "https://yuyu-tei.jp/sell/opc/card/prb01/10089",
+    "thumb": null,
+    "image": null
+   },
+   "price": {
+    "en": {
+     "market": 684.32,
+     "low": 662.99,
+     "mid": 700.43
+    },
+    "jp": {
+     "sell": 99800,
+     "buy": 50000,
+     "stock": 0
+    }
+   }
+  },
+  {
+   "id": "OP05-069",
+   "number": "OP05-069",
+   "variant": "manga",
+   "print": "original",
+   "setCode": "OP05",
+   "setName": "Awakening of the New Era",
+   "name": "Trafalgar Law",
+   "nameJa": "トラファルガー・ロー",
+   "rarity": "SR",
+   "en": {
+    "productId": 527019,
+    "productName": "Trafalgar Law (069) (Alternate Art) (Manga)",
+    "groupId": 23213,
+    "groupName": "Awakening of the New Era",
+    "url": "https://www.tcgplayer.com/product/527019/one-piece-card-game-awakening-of-the-new-era-trafalgar-law-069-alternate-art-manga",
+    "thumb": "https://tcgplayer-cdn.tcgplayer.com/product/527019_200w.jpg",
+    "image": "https://tcgplayer-cdn.tcgplayer.com/product/527019_in_1000x1000.jpg",
+    "released": "2023-12-08"
+   },
+   "jp": {
+    "ver": "op05",
+    "yuyuteiId": "10085",
+    "listingName": "トラファルガー・ロー(パラレル)(スーパーパラレル)",
+    "url": "https://yuyu-tei.jp/sell/opc/card/op05/10085",
+    "thumb": "https://card.yuyu-tei.jp/opc/100_140/op05/10085.jpg",
+    "image": "https://card.yuyu-tei.jp/opc/front/op05/10085.jpg"
+   },
+   "price": {
+    "en": {
+     "market": 1700.87,
+     "low": 1999.99,
+     "mid": 2100
+    },
+    "jp": {
+     "sell": 128000,
+     "buy": 70000,
+     "stock": 0
+    }
+   }
+  },
+  {
+   "id": "OP05-069-prb",
+   "number": "OP05-069",
+   "variant": "manga",
+   "print": "reprint",
+   "setCode": "OP05",
+   "setName": "Awakening of the New Era",
+   "name": "Trafalgar Law",
+   "nameJa": null,
+   "rarity": "SR",
+   "en": {
+    "productId": 587959,
+    "productName": "Trafalgar Law (OP05-069) (Manga)",
+    "groupId": 23496,
+    "groupName": "Premium Booster -The Best-",
+    "url": "https://www.tcgplayer.com/product/587959/one-piece-card-game-premium-booster-the-best-trafalgar-law-op05-069-manga",
+    "thumb": "https://tcgplayer-cdn.tcgplayer.com/product/587959_200w.jpg",
+    "image": "https://tcgplayer-cdn.tcgplayer.com/product/587959_in_1000x1000.jpg",
+    "released": "2024-11-08"
+   },
+   "jp": null,
+   "price": {
+    "en": {
+     "market": 1100,
+     "low": 900,
+     "mid": 1012.93
+    },
+    "jp": null
+   }
+  },
+  {
+   "id": "OP05-074",
+   "number": "OP05-074",
+   "variant": "manga",
+   "print": "original",
+   "setCode": "OP05",
+   "setName": "Awakening of the New Era",
+   "name": "Eustass\"Captain\"Kid",
+   "nameJa": "ユースタス・キッド",
+   "rarity": "SR",
+   "en": {
+    "productId": 527020,
+    "productName": "Eustass\"Captain\"Kid (Alternate Art) (Manga)",
+    "groupId": 23213,
+    "groupName": "Awakening of the New Era",
+    "url": "https://www.tcgplayer.com/product/527020/one-piece-card-game-awakening-of-the-new-era-eustasscaptainkid-alternate-art-manga",
+    "thumb": "https://tcgplayer-cdn.tcgplayer.com/product/527020_200w.jpg",
+    "image": "https://tcgplayer-cdn.tcgplayer.com/product/527020_in_1000x1000.jpg",
+    "released": "2023-12-08"
+   },
+   "jp": {
+    "ver": "op05",
+    "yuyuteiId": "10092",
+    "listingName": "ユースタス・キッド(パラレル)(スーパーパラレル)",
+    "url": "https://yuyu-tei.jp/sell/opc/card/op05/10092",
+    "thumb": "https://card.yuyu-tei.jp/opc/100_140/op05/10092.jpg",
+    "image": "https://card.yuyu-tei.jp/opc/front/op05/10092.jpg"
+   },
+   "price": {
+    "en": {
+     "market": 989.5,
+     "low": 750,
+     "mid": 848.5
+    },
+    "jp": {
+     "sell": 79800,
+     "buy": 40000,
+     "stock": 0
+    }
+   }
+  },
+  {
+   "id": "OP05-074-prb",
+   "number": "OP05-074",
+   "variant": "manga",
+   "print": "reprint",
+   "setCode": "OP05",
+   "setName": "Awakening of the New Era",
+   "name": "Eustass\"Captain\"Kid",
+   "nameJa": null,
+   "rarity": "SR",
+   "en": {
+    "productId": 587960,
+    "productName": "Eustass\"Captain\"Kid (OP05-074) (Manga)",
+    "groupId": 23496,
+    "groupName": "Premium Booster -The Best-",
+    "url": "https://www.tcgplayer.com/product/587960/one-piece-card-game-premium-booster-the-best-eustasscaptainkid-op05-074-manga",
+    "thumb": "https://tcgplayer-cdn.tcgplayer.com/product/587960_200w.jpg",
+    "image": "https://tcgplayer-cdn.tcgplayer.com/product/587960_in_1000x1000.jpg",
+    "released": "2024-11-08"
+   },
+   "jp": null,
+   "price": {
+    "en": {
+     "market": 801.91,
+     "low": 800,
+     "mid": 810.85
+    },
+    "jp": null
+   }
+  },
+  {
+   "id": "OP05-119",
+   "number": "OP05-119",
+   "variant": "manga",
+   "print": "original",
+   "setCode": "OP05",
+   "setName": "Awakening of the New Era",
+   "name": "Monkey.D.Luffy",
+   "nameJa": "モンキー・D・ルフィ",
+   "rarity": "SEC",
+   "en": {
+    "productId": 527026,
+    "productName": "Monkey.D.Luffy (119) (Alternate Art) (Manga)",
+    "groupId": 23213,
+    "groupName": "Awakening of the New Era",
+    "url": "https://www.tcgplayer.com/product/527026/one-piece-card-game-awakening-of-the-new-era-monkeydluffy-119-alternate-art-manga",
+    "thumb": "https://tcgplayer-cdn.tcgplayer.com/product/527026_200w.jpg",
+    "image": "https://tcgplayer-cdn.tcgplayer.com/product/527026_in_1000x1000.jpg",
+    "released": "2023-12-08"
+   },
+   "jp": {
+    "ver": "op05",
+    "yuyuteiId": "10146",
+    "listingName": "モンキー・D・ルフィ(パラレル)(スーパーパラレル)",
+    "url": "https://yuyu-tei.jp/sell/opc/card/op05/10146",
+    "thumb": "https://card.yuyu-tei.jp/opc/100_140/op05/10146.jpg",
+    "image": "https://card.yuyu-tei.jp/opc/front/op05/10146.jpg"
+   },
+   "price": {
+    "en": {
+     "market": null,
+     "low": 9999.99,
+     "mid": 30000
+    },
+    "jp": {
+     "sell": 598000,
+     "buy": 400000,
+     "stock": 0
+    }
+   }
+  },
+  {
+   "id": "OP05-119-prb",
+   "number": "OP05-119",
+   "variant": "manga",
+   "print": "reprint",
+   "setCode": "OP05",
+   "setName": "Awakening of the New Era",
+   "name": "Monkey.D.Luffy",
+   "nameJa": null,
+   "rarity": "SEC",
+   "en": {
+    "productId": 587963,
+    "productName": "Monkey.D.Luffy (OP05-119) (Manga)",
+    "groupId": 23496,
+    "groupName": "Premium Booster -The Best-",
+    "url": "https://www.tcgplayer.com/product/587963/one-piece-card-game-premium-booster-the-best-monkeydluffy-op05-119-manga",
+    "thumb": "https://tcgplayer-cdn.tcgplayer.com/product/587963_200w.jpg",
+    "image": "https://tcgplayer-cdn.tcgplayer.com/product/587963_in_1000x1000.jpg",
+    "released": "2024-11-08"
+   },
+   "jp": null,
+   "price": {
+    "en": {
+     "market": 5000,
+     "low": 5000,
+     "mid": 7499.98
+    },
+    "jp": null
+   }
+  },
+  {
+   "id": "OP06-118",
+   "number": "OP06-118",
+   "variant": "manga",
+   "print": "original",
+   "setCode": "OP06",
+   "setName": "Wings of the Captain",
+   "name": "Roronoa Zoro",
+   "nameJa": "ロロノア・ゾロ",
+   "rarity": "SEC",
+   "en": {
+    "productId": 541660,
+    "productName": "Roronoa Zoro (Alternate Art) (Manga)",
+    "groupId": 23272,
+    "groupName": "Wings of the Captain",
+    "url": "https://www.tcgplayer.com/product/541660/one-piece-card-game-wings-of-the-captain-roronoa-zoro-alternate-art-manga",
+    "thumb": "https://tcgplayer-cdn.tcgplayer.com/product/541660_200w.jpg",
+    "image": "https://tcgplayer-cdn.tcgplayer.com/product/541660_in_1000x1000.jpg",
+    "released": "2024-03-15"
+   },
+   "jp": {
+    "ver": "op06",
+    "yuyuteiId": "10142",
+    "listingName": "ロロノア・ゾロ(パラレル)(スーパーパラレル)",
+    "url": "https://yuyu-tei.jp/sell/opc/card/op06/10142",
+    "thumb": "https://card.yuyu-tei.jp/opc/100_140/op06/10142.jpg",
+    "image": "https://card.yuyu-tei.jp/opc/front/op06/10142.jpg"
+   },
+   "price": {
+    "en": {
+     "market": 2500,
+     "low": 2998.41,
+     "mid": 3204.01
+    },
+    "jp": {
+     "sell": 198000,
+     "buy": 160000,
+     "stock": 0
+    }
+   }
+  },
+  {
+   "id": "OP06-118-prb",
+   "number": "OP06-118",
+   "variant": "manga",
+   "print": "reprint",
+   "setCode": "OP06",
+   "setName": "Wings of the Captain",
+   "name": "Roronoa Zoro",
+   "nameJa": null,
+   "rarity": "SEC",
+   "en": {
+    "productId": 587964,
+    "productName": "Roronoa Zoro (Manga)",
+    "groupId": 23496,
+    "groupName": "Premium Booster -The Best-",
+    "url": "https://www.tcgplayer.com/product/587964/one-piece-card-game-premium-booster-the-best-roronoa-zoro-manga",
+    "thumb": "https://tcgplayer-cdn.tcgplayer.com/product/587964_200w.jpg",
+    "image": "https://tcgplayer-cdn.tcgplayer.com/product/587964_in_1000x1000.jpg",
+    "released": "2024-11-08"
+   },
+   "jp": null,
+   "price": {
+    "en": {
+     "market": 2350,
+     "low": 3000,
+     "mid": 3000.5
+    },
+    "jp": null
+   }
+  },
+  {
+   "id": "OP06-119-prb",
+   "number": "OP06-119",
+   "variant": "manga",
+   "print": "reprint",
+   "setCode": "OP06",
+   "setName": "Wings of the Captain",
+   "name": "Sanji",
+   "nameJa": "サンジ",
+   "rarity": "SEC",
+   "en": {
+    "productId": 654637,
+    "productName": "Sanji - OP06-119 (Manga)",
+    "groupId": 24305,
+    "groupName": "Premium Booster -The Best- Vol. 2",
+    "url": "https://www.tcgplayer.com/product/654637/one-piece-card-game-premium-booster-the-best-vol-2-sanji-op06-119-manga",
+    "thumb": "https://tcgplayer-cdn.tcgplayer.com/product/654637_200w.jpg",
+    "image": "https://tcgplayer-cdn.tcgplayer.com/product/654637_in_1000x1000.jpg",
+    "released": "2025-10-03"
+   },
+   "jp": {
+    "ver": "prb02",
+    "yuyuteiId": "10065",
+    "listingName": "サンジ(パラレル)(スーパーパラレル)",
+    "url": "https://yuyu-tei.jp/sell/opc/card/prb02/10065",
+    "thumb": "https://card.yuyu-tei.jp/opc/100_140/prb02/10065.jpg",
+    "image": "https://card.yuyu-tei.jp/opc/front/prb02/10065.jpg"
+   },
+   "price": {
+    "en": {
+     "market": 2338.11,
+     "low": 2439.94,
+     "mid": 2750
+    },
+    "jp": {
+     "sell": 148000,
+     "buy": 100000,
+     "stock": 0
+    }
+   }
+  },
+  {
+   "id": "OP07-051",
+   "number": "OP07-051",
+   "variant": "manga",
+   "print": "original",
+   "setCode": "OP07",
+   "setName": "500 Years in the Future",
+   "name": "Boa Hancock",
+   "nameJa": "ボア・ハンコック",
+   "rarity": "SR",
+   "en": {
+    "productId": 545841,
+    "productName": "Boa Hancock (051) (Parallel) (Manga)",
+    "groupId": 23387,
+    "groupName": "500 Years in the Future",
+    "url": "https://www.tcgplayer.com/product/545841/one-piece-card-game-500-years-in-the-future-boa-hancock-051-parallel-manga",
+    "thumb": "https://tcgplayer-cdn.tcgplayer.com/product/545841_200w.jpg",
+    "image": "https://tcgplayer-cdn.tcgplayer.com/product/545841_in_1000x1000.jpg",
+    "released": "2024-06-28"
+   },
+   "jp": {
+    "ver": "op07",
+    "yuyuteiId": "10064",
+    "listingName": "ボア・ハンコック(パラレル)(スーパーパラレル)",
+    "url": "https://yuyu-tei.jp/sell/opc/card/op07/10064",
+    "thumb": "https://card.yuyu-tei.jp/opc/100_140/op07/10064.jpg",
+    "image": "https://card.yuyu-tei.jp/opc/front/op07/10064.jpg"
+   },
+   "price": {
+    "en": {
+     "market": 2177.13,
+     "low": 1709.98,
+     "mid": 2019.95
+    },
+    "jp": {
+     "sell": 148000,
+     "buy": 100000,
+     "stock": 0
+    }
+   }
+  },
+  {
+   "id": "OP08-118",
+   "number": "OP08-118",
+   "variant": "manga",
+   "print": "original",
+   "setCode": "OP08",
+   "setName": "Two Legends",
+   "name": "Silvers Rayleigh",
+   "nameJa": "シルバーズ･レイリー",
+   "rarity": "SEC",
+   "en": {
+    "productId": 558162,
+    "productName": "Silvers Rayleigh (Parallel) (Manga)",
+    "groupId": 23462,
+    "groupName": "Two Legends",
+    "url": "https://www.tcgplayer.com/product/558162/one-piece-card-game-two-legends-silvers-rayleigh-parallel-manga",
+    "thumb": "https://tcgplayer-cdn.tcgplayer.com/product/558162_200w.jpg",
+    "image": "https://tcgplayer-cdn.tcgplayer.com/product/558162_in_1000x1000.jpg",
+    "released": "2024-09-13"
+   },
+   "jp": {
+    "ver": "op08",
+    "yuyuteiId": "10142",
+    "listingName": "シルバーズ･レイリー(パラレル)(スーパーパラレル)",
+    "url": "https://yuyu-tei.jp/sell/opc/card/op08/10142",
+    "thumb": "https://card.yuyu-tei.jp/opc/100_140/op08/10142.jpg",
+    "image": "https://card.yuyu-tei.jp/opc/front/op08/10142.jpg"
+   },
+   "price": {
+    "en": {
+     "market": 504.1,
+     "low": 415,
+     "mid": 519.59
+    },
+    "jp": {
+     "sell": 69800,
+     "buy": 35000,
+     "stock": 0
+    }
+   }
+  },
+  {
+   "id": "OP09-004",
+   "number": "OP09-004",
+   "variant": "manga",
+   "print": "original",
+   "setCode": "OP09",
+   "setName": "Emperors in the New World",
+   "name": "Shanks",
+   "nameJa": "シャンクス",
+   "rarity": "SR",
+   "en": {
+    "productId": 596925,
+    "productName": "Shanks (004) (Manga)",
+    "groupId": 23589,
+    "groupName": "Emperors in the New World",
+    "url": "https://www.tcgplayer.com/product/596925/one-piece-card-game-emperors-in-the-new-world-shanks-004-manga",
+    "thumb": "https://tcgplayer-cdn.tcgplayer.com/product/596925_200w.jpg",
+    "image": "https://tcgplayer-cdn.tcgplayer.com/product/596925_in_1000x1000.jpg",
+    "released": "2024-12-13"
+   },
+   "jp": {
+    "ver": "op09",
+    "yuyuteiId": "10008",
+    "listingName": "シャンクス(パラレル)(スーパーパラレル)",
+    "url": "https://yuyu-tei.jp/sell/opc/card/op09/10008",
+    "thumb": "https://card.yuyu-tei.jp/opc/100_140/op09/10008.jpg",
+    "image": "https://card.yuyu-tei.jp/opc/front/op09/10008.jpg"
+   },
+   "price": {
+    "en": {
+     "market": 1795,
+     "low": 1500,
+     "mid": 2125
+    },
+    "jp": {
+     "sell": 148000,
+     "buy": 75000,
+     "stock": 0
+    }
+   }
+  },
+  {
+   "id": "OP09-051",
+   "number": "OP09-051",
+   "variant": "manga",
+   "print": "original",
+   "setCode": "OP09",
+   "setName": "Emperors in the New World",
+   "name": "Buggy",
+   "nameJa": "バギー",
+   "rarity": "R",
+   "en": {
+    "productId": 596984,
+    "productName": "Buggy (051) (Manga)",
+    "groupId": 23589,
+    "groupName": "Emperors in the New World",
+    "url": "https://www.tcgplayer.com/product/596984/one-piece-card-game-emperors-in-the-new-world-buggy-051-manga",
+    "thumb": "https://tcgplayer-cdn.tcgplayer.com/product/596984_200w.jpg",
+    "image": "https://tcgplayer-cdn.tcgplayer.com/product/596984_in_1000x1000.jpg",
+    "released": "2024-12-13"
+   },
+   "jp": {
+    "ver": "op09",
+    "yuyuteiId": "10066",
+    "listingName": "バギー(パラレル)(スーパーパラレル)",
+    "url": "https://yuyu-tei.jp/sell/opc/card/op09/10066",
+    "thumb": "https://card.yuyu-tei.jp/opc/100_140/op09/10066.jpg",
+    "image": "https://card.yuyu-tei.jp/opc/front/op09/10066.jpg"
+   },
+   "price": {
+    "en": {
+     "market": 1505.5,
+     "low": 1200,
+     "mid": 1395.31
+    },
+    "jp": {
+     "sell": 99800,
+     "buy": 50000,
+     "stock": 0
+    }
+   }
+  },
+  {
+   "id": "OP09-093",
+   "number": "OP09-093",
+   "variant": "manga",
+   "print": "original",
+   "setCode": "OP09",
+   "setName": "Emperors in the New World",
+   "name": "Marshall.D.Teach",
+   "nameJa": "マーシャル・D・ティーチ",
+   "rarity": "SR",
+   "en": {
+    "productId": 597035,
+    "productName": "Marshall.D.Teach (093) (Manga)",
+    "groupId": 23589,
+    "groupName": "Emperors in the New World",
+    "url": "https://www.tcgplayer.com/product/597035/one-piece-card-game-emperors-in-the-new-world-marshalldteach-093-manga",
+    "thumb": "https://tcgplayer-cdn.tcgplayer.com/product/597035_200w.jpg",
+    "image": "https://tcgplayer-cdn.tcgplayer.com/product/597035_in_1000x1000.jpg",
+    "released": "2024-12-13"
+   },
+   "jp": {
+    "ver": "op09",
+    "yuyuteiId": "10116",
+    "listingName": "マーシャル・D・ティーチ(パラレル)(スーパーパラレル)",
+    "url": "https://yuyu-tei.jp/sell/opc/card/op09/10116",
+    "thumb": "https://card.yuyu-tei.jp/opc/100_140/op09/10116.jpg",
+    "image": "https://card.yuyu-tei.jp/opc/front/op09/10116.jpg"
+   },
+   "price": {
+    "en": {
+     "market": 1850.47,
+     "low": 1694.99,
+     "mid": 2499.99
+    },
+    "jp": {
+     "sell": 128000,
+     "buy": 70000,
+     "stock": 0
+    }
+   }
+  },
+  {
+   "id": "OP09-118",
+   "number": "OP09-118",
+   "variant": "manga",
+   "print": "original",
+   "setCode": "OP09",
+   "setName": "Emperors in the New World",
+   "name": "Gol.D.Roger",
+   "nameJa": "ゴール・D・ロジャー",
+   "rarity": "SEC",
+   "en": {
+    "productId": 597065,
+    "productName": "Gol.D.Roger (Manga)",
+    "groupId": 23589,
+    "groupName": "Emperors in the New World",
+    "url": "https://www.tcgplayer.com/product/597065/one-piece-card-game-emperors-in-the-new-world-goldroger-manga",
+    "thumb": "https://tcgplayer-cdn.tcgplayer.com/product/597065_200w.jpg",
+    "image": "https://tcgplayer-cdn.tcgplayer.com/product/597065_in_1000x1000.jpg",
+    "released": "2024-12-13"
+   },
+   "jp": {
+    "ver": "op09",
+    "yuyuteiId": "10145",
+    "listingName": "ゴール・D・ロジャー(パラレル)(スーパーパラレル)",
+    "url": "https://yuyu-tei.jp/sell/opc/card/op09/10145",
+    "thumb": "https://card.yuyu-tei.jp/opc/100_140/op09/10145.jpg",
+    "image": "https://card.yuyu-tei.jp/opc/front/op09/10145.jpg"
+   },
+   "price": {
+    "en": {
+     "market": null,
+     "low": 29994.99,
+     "mid": 29994.99
+    },
+    "jp": {
+     "sell": 498000,
+     "buy": 380000,
+     "stock": 0
+    }
+   }
+  },
+  {
+   "id": "OP09-119",
+   "number": "OP09-119",
+   "variant": "manga",
+   "print": "original",
+   "setCode": "OP09",
+   "setName": "Emperors in the New World",
+   "name": "Monkey.D.Luffy",
+   "nameJa": "モンキー・D・ルフィ",
+   "rarity": "SEC",
+   "en": {
+    "productId": 597068,
+    "productName": "Monkey.D.Luffy (119) (Manga)",
+    "groupId": 23589,
+    "groupName": "Emperors in the New World",
+    "url": "https://www.tcgplayer.com/product/597068/one-piece-card-game-emperors-in-the-new-world-monkeydluffy-119-manga",
+    "thumb": "https://tcgplayer-cdn.tcgplayer.com/product/597068_200w.jpg",
+    "image": "https://tcgplayer-cdn.tcgplayer.com/product/597068_in_1000x1000.jpg",
+    "released": "2024-12-13"
+   },
+   "jp": {
+    "ver": "op09",
+    "yuyuteiId": "10148",
+    "listingName": "モンキー・D・ルフィ(パラレル)(スーパーパラレル)",
+    "url": "https://yuyu-tei.jp/sell/opc/card/op09/10148",
+    "thumb": "https://card.yuyu-tei.jp/opc/100_140/op09/10148.jpg",
+    "image": "https://card.yuyu-tei.jp/opc/front/op09/10148.jpg"
+   },
+   "price": {
+    "en": {
+     "market": null,
+     "low": 2450,
+     "mid": 2725
+    },
+    "jp": {
+     "sell": 248000,
+     "buy": 180000,
+     "stock": 0
+    }
+   }
+  },
+  {
+   "id": "OP10-119",
+   "number": "OP10-119",
+   "variant": "manga",
+   "print": "original",
+   "setCode": "OP10",
+   "setName": "Royal Blood",
+   "name": "Trafalgar Law",
+   "nameJa": "トラファルガー・ロー",
+   "rarity": "SEC",
+   "en": {
+    "productId": 617173,
+    "productName": "Trafalgar Law (119) (Manga)",
+    "groupId": 23766,
+    "groupName": "Royal Blood",
+    "url": "https://www.tcgplayer.com/product/617173/one-piece-card-game-royal-blood-trafalgar-law-119-manga",
+    "thumb": "https://tcgplayer-cdn.tcgplayer.com/product/617173_200w.jpg",
+    "image": "https://tcgplayer-cdn.tcgplayer.com/product/617173_in_1000x1000.jpg",
+    "released": "2025-03-21"
+   },
+   "jp": {
+    "ver": "op10",
+    "yuyuteiId": "10144",
+    "listingName": "トラファルガー・ロー(パラレル)(スーパーパラレル)",
+    "url": "https://yuyu-tei.jp/sell/opc/card/op10/10144",
+    "thumb": "https://card.yuyu-tei.jp/opc/100_140/op10/10144.jpg",
+    "image": "https://card.yuyu-tei.jp/opc/front/op10/10144.jpg"
+   },
+   "price": {
+    "en": {
+     "market": 670.15,
+     "low": 610,
+     "mid": 664.2
+    },
+    "jp": {
+     "sell": 79800,
+     "buy": 40000,
+     "stock": 0
+    }
+   }
+  },
+  {
+   "id": "OP11-118",
+   "number": "OP11-118",
+   "variant": "manga",
+   "print": "original",
+   "setCode": "OP11",
+   "setName": "A Fist of Divine Speed",
+   "name": "Monkey.D.Luffy",
+   "nameJa": "モンキー・D・ルフィ",
+   "rarity": "SEC",
+   "en": {
+    "productId": 632499,
+    "productName": "Monkey.D.Luffy (118) (Manga)",
+    "groupId": 24241,
+    "groupName": "A Fist of Divine Speed",
+    "url": "https://www.tcgplayer.com/product/632499/one-piece-card-game-a-fist-of-divine-speed-monkeydluffy-118-manga",
+    "thumb": "https://tcgplayer-cdn.tcgplayer.com/product/632499_200w.jpg",
+    "image": "https://tcgplayer-cdn.tcgplayer.com/product/632499_in_1000x1000.jpg",
+    "released": "2025-06-06"
+   },
+   "jp": {
+    "ver": "op11",
+    "yuyuteiId": "10145",
+    "listingName": "モンキー・D・ルフィ(パラレル)(スーパーパラレル)",
+    "url": "https://yuyu-tei.jp/sell/opc/card/op11/10145",
+    "thumb": "https://card.yuyu-tei.jp/opc/100_140/op11/10145.jpg",
+    "image": "https://card.yuyu-tei.jp/opc/front/op11/10145.jpg"
+   },
+   "price": {
+    "en": {
+     "market": 1310.15,
+     "low": 899.54,
+     "mid": 1141.88
+    },
+    "jp": {
+     "sell": 148000,
+     "buy": 100000,
+     "stock": 0
+    }
+   }
+  },
+  {
+   "id": "OP12-118",
+   "number": "OP12-118",
+   "variant": "manga",
+   "print": "original",
+   "setCode": "OP12",
+   "setName": "Legacy of the Master",
+   "name": "Jewelry Bonney",
+   "nameJa": "ジュエリー・ボニー",
+   "rarity": "SEC",
+   "en": {
+    "productId": 643867,
+    "productName": "Jewelry Bonney (118) (Manga)",
+    "groupId": 24302,
+    "groupName": "Legacy of the Master",
+    "url": "https://www.tcgplayer.com/product/643867/one-piece-card-game-legacy-of-the-master-jewelry-bonney-118-manga",
+    "thumb": "https://tcgplayer-cdn.tcgplayer.com/product/643867_200w.jpg",
+    "image": "https://tcgplayer-cdn.tcgplayer.com/product/643867_in_1000x1000.jpg",
+    "released": "2025-08-22"
+   },
+   "jp": {
+    "ver": "op12",
+    "yuyuteiId": "10144",
+    "listingName": "ジュエリー・ボニー(パラレル)(スーパーパラレル)",
+    "url": "https://yuyu-tei.jp/sell/opc/card/op12/10144",
+    "thumb": "https://card.yuyu-tei.jp/opc/100_140/op12/10144.jpg",
+    "image": "https://card.yuyu-tei.jp/opc/front/op12/10144.jpg"
+   },
+   "price": {
+    "en": {
+     "market": 712.54,
+     "low": 647.4,
+     "mid": 728.44
+    },
+    "jp": {
+     "sell": 79800,
+     "buy": 55000,
+     "stock": 0
+    }
+   }
+  },
+  {
+   "id": "OP13-118",
+   "number": "OP13-118",
+   "variant": "manga",
+   "print": "original",
+   "setCode": "OP13",
+   "setName": "Carrying On His Will",
+   "name": "Monkey.D.Luffy",
+   "nameJa": "モンキー・D・ルフィ",
+   "rarity": "SEC",
+   "en": {
+    "productId": 657402,
+    "productName": "Monkey.D.Luffy (118) (Super Alternate Art)",
+    "groupId": 24303,
+    "groupName": "Carrying On His Will",
+    "url": "https://www.tcgplayer.com/product/657402/one-piece-card-game-carrying-on-his-will-monkeydluffy-118-super-alternate-art",
+    "thumb": "https://tcgplayer-cdn.tcgplayer.com/product/657402_200w.jpg",
+    "image": "https://tcgplayer-cdn.tcgplayer.com/product/657402_in_1000x1000.jpg",
+    "released": "2025-11-07"
+   },
+   "jp": {
+    "ver": "op13",
+    "yuyuteiId": "10153",
+    "listingName": "モンキー・D・ルフィ(パラレル)(スーパーパラレル)",
+    "url": "https://yuyu-tei.jp/sell/opc/card/op13/10153",
+    "thumb": "https://card.yuyu-tei.jp/opc/100_140/op13/10153.jpg",
+    "image": "https://card.yuyu-tei.jp/opc/front/op13/10153.jpg"
+   },
+   "price": {
+    "en": {
+     "market": 2208.62,
+     "low": 2362.49,
+     "mid": 2624.99
+    },
+    "jp": {
+     "sell": 198000,
+     "buy": 160000,
+     "stock": 0
+    }
+   }
+  },
+  {
+   "id": "OP13-118-red",
+   "number": "OP13-118",
+   "variant": "red-manga",
+   "print": "original",
+   "setCode": "OP13",
+   "setName": "Carrying On His Will",
+   "name": "Monkey.D.Luffy",
+   "nameJa": "モンキー・D・ルフィ",
+   "rarity": "SEC",
+   "en": {
+    "productId": 657401,
+    "productName": "Monkey.D.Luffy (118) (Red Super Alternate Art)",
+    "groupId": 24303,
+    "groupName": "Carrying On His Will",
+    "url": "https://www.tcgplayer.com/product/657401/one-piece-card-game-carrying-on-his-will-monkeydluffy-118-red-super-alternate-art",
+    "thumb": "https://tcgplayer-cdn.tcgplayer.com/product/657401_200w.jpg",
+    "image": "https://tcgplayer-cdn.tcgplayer.com/product/657401_in_1000x1000.jpg",
+    "released": "2025-11-07"
+   },
+   "jp": {
+    "ver": "op13",
+    "yuyuteiId": "10154",
+    "listingName": "モンキー・D・ルフィ(パラレル)(レッドスーパーパラレル)",
+    "url": "https://yuyu-tei.jp/sell/opc/card/op13/10154",
+    "thumb": "https://card.yuyu-tei.jp/opc/100_140/op13/10154.jpg",
+    "image": "https://card.yuyu-tei.jp/opc/front/op13/10154.jpg"
+   },
+   "price": {
+    "en": {
+     "market": 7500,
+     "low": 75000,
+     "mid": 87499.5
+    },
+    "jp": {
+     "sell": 1280000,
+     "buy": 900000,
+     "stock": 0
+    }
+   }
+  },
+  {
+   "id": "OP13-119",
+   "number": "OP13-119",
+   "variant": "manga",
+   "print": "original",
+   "setCode": "OP13",
+   "setName": "Carrying On His Will",
+   "name": "Portgas.D.Ace",
+   "nameJa": "ポートガス・D・エース",
+   "rarity": "SEC",
+   "en": {
+    "productId": 657407,
+    "productName": "Portgas.D.Ace (119) (Super Alternate Art)",
+    "groupId": 24303,
+    "groupName": "Carrying On His Will",
+    "url": "https://www.tcgplayer.com/product/657407/one-piece-card-game-carrying-on-his-will-portgasdace-119-super-alternate-art",
+    "thumb": "https://tcgplayer-cdn.tcgplayer.com/product/657407_200w.jpg",
+    "image": "https://tcgplayer-cdn.tcgplayer.com/product/657407_in_1000x1000.jpg",
+    "released": "2025-11-07"
+   },
+   "jp": {
+    "ver": "op13",
+    "yuyuteiId": "10157",
+    "listingName": "ポートガス・D・エース(パラレル)(スーパーパラレル)",
+    "url": "https://yuyu-tei.jp/sell/opc/card/op13/10157",
+    "thumb": "https://card.yuyu-tei.jp/opc/100_140/op13/10157.jpg",
+    "image": "https://card.yuyu-tei.jp/opc/front/op13/10157.jpg"
+   },
+   "price": {
+    "en": {
+     "market": 1101.42,
+     "low": 988.95,
+     "mid": 1099.5
+    },
+    "jp": {
+     "sell": 128000,
+     "buy": 70000,
+     "stock": 0
+    }
+   }
+  },
+  {
+   "id": "OP13-119-red",
+   "number": "OP13-119",
+   "variant": "red-manga",
+   "print": "original",
+   "setCode": "OP13",
+   "setName": "Carrying On His Will",
+   "name": "Portgas.D.Ace",
+   "nameJa": "ポートガス・D・エース",
+   "rarity": "SEC",
+   "en": {
+    "productId": 657406,
+    "productName": "Portgas.D.Ace (119) (Red Super Alternate Art)",
+    "groupId": 24303,
+    "groupName": "Carrying On His Will",
+    "url": "https://www.tcgplayer.com/product/657406/one-piece-card-game-carrying-on-his-will-portgasdace-119-red-super-alternate-art",
+    "thumb": "https://tcgplayer-cdn.tcgplayer.com/product/657406_200w.jpg",
+    "image": "https://tcgplayer-cdn.tcgplayer.com/product/657406_in_1000x1000.jpg",
+    "released": "2025-11-07"
+   },
+   "jp": {
+    "ver": "op13",
+    "yuyuteiId": "10158",
+    "listingName": "ポートガス・D・エース(パラレル)(レッドスーパーパラレル)",
+    "url": "https://yuyu-tei.jp/sell/opc/card/op13/10158",
+    "thumb": "https://card.yuyu-tei.jp/opc/100_140/op13/10158.jpg",
+    "image": "https://card.yuyu-tei.jp/opc/front/op13/10158.jpg"
+   },
+   "price": {
+    "en": {
+     "market": null,
+     "low": 4050,
+     "mid": 5250
+    },
+    "jp": {
+     "sell": 498000,
+     "buy": 380000,
+     "stock": 0
+    }
+   }
+  },
+  {
+   "id": "OP13-120",
+   "number": "OP13-120",
+   "variant": "manga",
+   "print": "original",
+   "setCode": "OP13",
+   "setName": "Carrying On His Will",
+   "name": "Sabo",
+   "nameJa": "サボ",
+   "rarity": "SEC",
+   "en": {
+    "productId": 657412,
+    "productName": "Sabo (120) (Super Alternate Art)",
+    "groupId": 24303,
+    "groupName": "Carrying On His Will",
+    "url": "https://www.tcgplayer.com/product/657412/one-piece-card-game-carrying-on-his-will-sabo-120-super-alternate-art",
+    "thumb": "https://tcgplayer-cdn.tcgplayer.com/product/657412_200w.jpg",
+    "image": "https://tcgplayer-cdn.tcgplayer.com/product/657412_in_1000x1000.jpg",
+    "released": "2025-11-07"
+   },
+   "jp": {
+    "ver": "op13",
+    "yuyuteiId": "10161",
+    "listingName": "サボ(パラレル)(スーパーパラレル)",
+    "url": "https://yuyu-tei.jp/sell/opc/card/op13/10161",
+    "thumb": "https://card.yuyu-tei.jp/opc/100_140/op13/10161.jpg",
+    "image": "https://card.yuyu-tei.jp/opc/front/op13/10161.jpg"
+   },
+   "price": {
+    "en": {
+     "market": 748.63,
+     "low": 699.69,
+     "mid": 749.41
+    },
+    "jp": {
+     "sell": 79800,
+     "buy": 55000,
+     "stock": 0
+    }
+   }
+  },
+  {
+   "id": "OP13-120-red",
+   "number": "OP13-120",
+   "variant": "red-manga",
+   "print": "original",
+   "setCode": "OP13",
+   "setName": "Carrying On His Will",
+   "name": "Sabo",
+   "nameJa": "サボ",
+   "rarity": "SEC",
+   "en": {
+    "productId": 657411,
+    "productName": "Sabo (120) (Red Super Alternate Art)",
+    "groupId": 24303,
+    "groupName": "Carrying On His Will",
+    "url": "https://www.tcgplayer.com/product/657411/one-piece-card-game-carrying-on-his-will-sabo-120-red-super-alternate-art",
+    "thumb": "https://tcgplayer-cdn.tcgplayer.com/product/657411_200w.jpg",
+    "image": "https://tcgplayer-cdn.tcgplayer.com/product/657411_in_1000x1000.jpg",
+    "released": "2025-11-07"
+   },
+   "jp": {
+    "ver": "op13",
+    "yuyuteiId": "10162",
+    "listingName": "サボ(パラレル)(レッドスーパーパラレル)",
+    "url": "https://yuyu-tei.jp/sell/opc/card/op13/10162",
+    "thumb": "https://card.yuyu-tei.jp/opc/100_140/op13/10162.jpg",
+    "image": "https://card.yuyu-tei.jp/opc/front/op13/10162.jpg"
+   },
+   "price": {
+    "en": {
+     "market": 4800,
+     "low": 4299.99,
+     "mid": 4589.82
+    },
+    "jp": {
+     "sell": 298000,
+     "buy": 220000,
+     "stock": 0
+    }
+   }
+  },
+  {
+   "id": "OP14-119",
+   "number": "OP14-119",
+   "variant": "manga",
+   "print": "original",
+   "setCode": "OP14",
+   "setName": "The Azure Sea's Seven",
+   "name": "Dracule Mihawk",
+   "nameJa": "ジュラキュール・ミホーク",
+   "rarity": "SEC",
+   "en": {
+    "productId": 671448,
+    "productName": "Dracule Mihawk (Manga)",
+    "groupId": 24537,
+    "groupName": "The Azure Sea's Seven",
+    "url": "https://www.tcgplayer.com/product/671448/one-piece-card-game-the-azure-seas-seven-dracule-mihawk-manga",
+    "thumb": "https://tcgplayer-cdn.tcgplayer.com/product/671448_200w.jpg",
+    "image": "https://tcgplayer-cdn.tcgplayer.com/product/671448_in_1000x1000.jpg",
+    "released": "2026-01-16"
+   },
+   "jp": {
+    "ver": "op14",
+    "yuyuteiId": "10146",
+    "listingName": "ジュラキュール・ミホーク(パラレル)(スーパーパラレル)",
+    "url": "https://yuyu-tei.jp/sell/opc/card/op14/10146",
+    "thumb": "https://card.yuyu-tei.jp/opc/100_140/op14/10146.jpg",
+    "image": "https://card.yuyu-tei.jp/opc/front/op14/10146.jpg"
+   },
+   "price": {
+    "en": {
+     "market": 704.35,
+     "low": 589.99,
+     "mid": 649.99
+    },
+    "jp": {
+     "sell": 79800,
+     "buy": 40000,
+     "stock": 0
+    }
+   }
+  },
+  {
+   "id": "OP15-118",
+   "number": "OP15-118",
+   "variant": "manga",
+   "print": "original",
+   "setCode": "OP15",
+   "setName": "Adventure on Kami's Island",
+   "name": "Enel",
+   "nameJa": "エネル",
+   "rarity": "SEC",
+   "en": {
+    "productId": 685479,
+    "productName": "Enel (OP15-118) (Manga)",
+    "groupId": 24637,
+    "groupName": "Adventure on Kami's Island",
+    "url": "https://www.tcgplayer.com/product/685479/one-piece-card-game-adventure-on-kamis-island-enel-op15-118-manga",
+    "thumb": "https://tcgplayer-cdn.tcgplayer.com/product/685479_200w.jpg",
+    "image": "https://tcgplayer-cdn.tcgplayer.com/product/685479_in_1000x1000.jpg",
+    "released": "2026-04-03"
+   },
+   "jp": {
+    "ver": "op15",
+    "yuyuteiId": "10144",
+    "listingName": "エネル(パラレル)(スーパーパラレル)",
+    "url": "https://yuyu-tei.jp/sell/opc/card/op15/10144",
+    "thumb": "https://card.yuyu-tei.jp/opc/100_140/op15/10144.jpg",
+    "image": "https://card.yuyu-tei.jp/opc/front/op15/10144.jpg"
+   },
+   "price": {
+    "en": {
+     "market": 885.68,
+     "low": 675,
+     "mid": 900
+    },
+    "jp": {
+     "sell": 99800,
+     "buy": 50000,
+     "stock": 0
+    }
+   }
+  },
+  {
+   "id": "OP16-063",
+   "number": "OP16-063",
+   "variant": "manga",
+   "print": "original",
+   "setCode": "OP16",
+   "setName": "The Time of Battle",
+   "name": "Kuzan",
+   "nameJa": "クザン",
+   "rarity": "R",
+   "en": {
+    "productId": 696052,
+    "productName": "Kuzan (Manga)",
+    "groupId": 24664,
+    "groupName": "The Time of Battle",
+    "url": "https://www.tcgplayer.com/product/696052/one-piece-card-game-the-time-of-battle-kuzan-manga",
+    "thumb": "https://tcgplayer-cdn.tcgplayer.com/product/696052_200w.jpg",
+    "image": "https://tcgplayer-cdn.tcgplayer.com/product/696052_in_1000x1000.jpg",
+    "released": "2026-06-12"
+   },
+   "jp": {
+    "ver": "op16",
+    "yuyuteiId": "10079",
+    "listingName": "クザン(パラレル)(スーパーパラレル)",
+    "url": "https://yuyu-tei.jp/sell/opc/card/op16/10079",
+    "thumb": "https://card.yuyu-tei.jp/opc/100_140/op16/10079.jpg",
+    "image": "https://card.yuyu-tei.jp/opc/front/op16/10079.jpg"
+   },
+   "price": {
+    "en": {
+     "market": 1073.39,
+     "low": 617.8,
+     "mid": 823.99
+    },
+    "jp": {
+     "sell": 148000,
+     "buy": 75000,
+     "stock": 0
+    }
+   }
+  },
+  {
+   "id": "OP16-065",
+   "number": "OP16-065",
+   "variant": "manga",
+   "print": "original",
+   "setCode": "OP16",
+   "setName": "The Time of Battle",
+   "name": "Sakazuki",
+   "nameJa": "サカズキ",
+   "rarity": "SR",
+   "en": {
+    "productId": 695986,
+    "productName": "Sakazuki (Manga)",
+    "groupId": 24664,
+    "groupName": "The Time of Battle",
+    "url": "https://www.tcgplayer.com/product/695986/one-piece-card-game-the-time-of-battle-sakazuki-manga",
+    "thumb": "https://tcgplayer-cdn.tcgplayer.com/product/695986_200w.jpg",
+    "image": "https://tcgplayer-cdn.tcgplayer.com/product/695986_in_1000x1000.jpg",
+    "released": "2026-06-12"
+   },
+   "jp": {
+    "ver": "op16",
+    "yuyuteiId": "10083",
+    "listingName": "サカズキ(パラレル)(スーパーパラレル)",
+    "url": "https://yuyu-tei.jp/sell/opc/card/op16/10083",
+    "thumb": "https://card.yuyu-tei.jp/opc/100_140/op16/10083.jpg",
+    "image": "https://card.yuyu-tei.jp/opc/front/op16/10083.jpg"
+   },
+   "price": {
+    "en": {
+     "market": 1073.42,
+     "low": 749.65,
+     "mid": 950
+    },
+    "jp": {
+     "sell": 148000,
+     "buy": 75000,
+     "stock": 0
+    }
+   }
+  },
+  {
+   "id": "OP16-073",
+   "number": "OP16-073",
+   "variant": "manga",
+   "print": "original",
+   "setCode": "OP16",
+   "setName": "The Time of Battle",
+   "name": "Borsalino",
+   "nameJa": "ボルサリーノ",
+   "rarity": "R",
+   "en": {
+    "productId": 696108,
+    "productName": "Borsalino (Manga)",
+    "groupId": 24664,
+    "groupName": "The Time of Battle",
+    "url": "https://www.tcgplayer.com/product/696108/one-piece-card-game-the-time-of-battle-borsalino-manga",
+    "thumb": "https://tcgplayer-cdn.tcgplayer.com/product/696108_200w.jpg",
+    "image": "https://tcgplayer-cdn.tcgplayer.com/product/696108_in_1000x1000.jpg",
+    "released": "2026-06-12"
+   },
+   "jp": {
+    "ver": "op16",
+    "yuyuteiId": "10093",
+    "listingName": "ボルサリーノ(パラレル)(スーパーパラレル)",
+    "url": "https://yuyu-tei.jp/sell/opc/card/op16/10093",
+    "thumb": "https://card.yuyu-tei.jp/opc/100_140/op16/10093.jpg",
+    "image": "https://card.yuyu-tei.jp/opc/front/op16/10093.jpg"
+   },
+   "price": {
+    "en": {
+     "market": 1001.12,
+     "low": 599.19,
+     "mid": 805.5
+    },
+    "jp": {
+     "sell": 148000,
+     "buy": 75000,
+     "stock": 0
+    }
+   }
+  },
+  {
+   "id": "OP17-005",
+   "number": "OP17-005",
+   "variant": "manga",
+   "print": "original",
+   "setCode": "OP17",
+   "setName": "The World's Strongest Warriors",
+   "name": "Edward.Newgate",
+   "nameJa": "エドワード・ニューゲート",
+   "rarity": "SR",
+   "en": {
+    "productId": 712083,
+    "productName": "Edward.Newgate (005) (Manga)",
+    "groupId": 24736,
+    "groupName": "The World's Strongest Warriors",
+    "url": "https://www.tcgplayer.com/product/712083/one-piece-card-game-the-worlds-strongest-warriors-edwardnewgate-005-manga",
+    "thumb": "https://tcgplayer-cdn.tcgplayer.com/product/712083_200w.jpg",
+    "image": "https://tcgplayer-cdn.tcgplayer.com/product/712083_in_1000x1000.jpg",
+    "released": "2026-08-28"
+   },
+   "jp": {
+    "ver": "op17",
+    "yuyuteiId": "10008",
+    "listingName": "エドワード・ニューゲート(パラレル)(スーパーパラレル)",
+    "url": "https://yuyu-tei.jp/sell/opc/card/op17/10008",
+    "thumb": "https://card.yuyu-tei.jp/opc/100_140/op17/10008.jpg",
+    "image": "https://card.yuyu-tei.jp/opc/front/op17/10008.jpg"
+   },
+   "price": {
+    "en": {
+     "market": 1076.92,
+     "low": 908.72,
+     "mid": 1007.49
+    },
+    "jp": {
+     "sell": 79800,
+     "buy": 60000,
+     "stock": 0
+    }
+   }
+  },
+  {
+   "id": "OP17-022",
+   "number": "OP17-022",
+   "variant": "manga",
+   "print": "original",
+   "setCode": "OP17",
+   "setName": "The World's Strongest Warriors",
+   "name": "Shanks",
+   "nameJa": "シャンクス",
+   "rarity": "SR",
+   "en": {
+    "productId": 712084,
+    "productName": "Shanks (022) (Manga)",
+    "groupId": 24736,
+    "groupName": "The World's Strongest Warriors",
+    "url": "https://www.tcgplayer.com/product/712084/one-piece-card-game-the-worlds-strongest-warriors-shanks-022-manga",
+    "thumb": "https://tcgplayer-cdn.tcgplayer.com/product/712084_200w.jpg",
+    "image": "https://tcgplayer-cdn.tcgplayer.com/product/712084_in_1000x1000.jpg",
+    "released": "2026-08-28"
+   },
+   "jp": {
+    "ver": "op17",
+    "yuyuteiId": "10029",
+    "listingName": "シャンクス(パラレル)(スーパーパラレル)",
+    "url": "https://yuyu-tei.jp/sell/opc/card/op17/10029",
+    "thumb": null,
+    "image": null
+   },
+   "price": {
+    "en": {
+     "market": 1486.69,
+     "low": 1135,
+     "mid": 1279.99
+    },
+    "jp": {
+     "sell": 148000,
+     "buy": 80000,
+     "stock": 0
+    }
+   }
+  },
+  {
+   "id": "OP17-062",
+   "number": "OP17-062",
+   "variant": "manga",
+   "print": "original",
+   "setCode": "OP17",
+   "setName": "The World's Strongest Warriors",
+   "name": "Kaido",
+   "nameJa": "カイドウ",
+   "rarity": "SR",
+   "en": {
+    "productId": 712090,
+    "productName": "Kaido (062) (Manga)",
+    "groupId": 24736,
+    "groupName": "The World's Strongest Warriors",
+    "url": "https://www.tcgplayer.com/product/712090/one-piece-card-game-the-worlds-strongest-warriors-kaido-062-manga",
+    "thumb": "https://tcgplayer-cdn.tcgplayer.com/product/712090_200w.jpg",
+    "image": "https://tcgplayer-cdn.tcgplayer.com/product/712090_in_1000x1000.jpg",
+    "released": "2026-08-28"
+   },
+   "jp": {
+    "ver": "op17",
+    "yuyuteiId": "10085",
+    "listingName": "カイドウ(パラレル)(スーパーパラレル)",
+    "url": "https://yuyu-tei.jp/sell/opc/card/op17/10085",
+    "thumb": "https://card.yuyu-tei.jp/opc/100_140/op17/10085.jpg",
+    "image": "https://card.yuyu-tei.jp/opc/front/op17/10085.jpg"
+   },
+   "price": {
+    "en": {
+     "market": 914.39,
+     "low": 700,
+     "mid": 922.17
+    },
+    "jp": {
+     "sell": 79800,
+     "buy": 35000,
+     "stock": 0
+    }
+   }
+  },
+  {
+   "id": "OP17-079",
+   "number": "OP17-079",
+   "variant": "manga",
+   "print": "original",
+   "setCode": "OP17",
+   "setName": "The World's Strongest Warriors",
+   "name": "Monkey.D.Luffy",
+   "nameJa": "モンキー・D・ルフィ",
+   "rarity": "L",
+   "en": {
+    "productId": 712114,
+    "productName": "Monkey.D.Luffy (079) (Super Leader Alternate Art)",
+    "groupId": 24736,
+    "groupName": "The World's Strongest Warriors",
+    "url": "https://www.tcgplayer.com/product/712114/one-piece-card-game-the-worlds-strongest-warriors-monkeydluffy-079-super-leader-alternate-art",
+    "thumb": "https://tcgplayer-cdn.tcgplayer.com/product/712114_200w.jpg",
+    "image": "https://tcgplayer-cdn.tcgplayer.com/product/712114_in_1000x1000.jpg",
+    "released": "2026-08-28"
+   },
+   "jp": {
+    "ver": "op17",
+    "yuyuteiId": "10106",
+    "listingName": "モンキー・D・ルフィ(パラレル)(スーパーパラレル)",
+    "url": "https://yuyu-tei.jp/sell/opc/card/op17/10106",
+    "thumb": "https://card.yuyu-tei.jp/opc/100_140/op17/10106.jpg",
+    "image": "https://card.yuyu-tei.jp/opc/front/op17/10106.jpg"
+   },
+   "price": {
+    "en": {
+     "market": 1342.1,
+     "low": 1099.99,
+     "mid": 1342.1
+    },
+    "jp": {
+     "sell": 128000,
+     "buy": 60000,
+     "stock": 0
+    }
+   }
+  },
+  {
+   "id": "OP17-112",
+   "number": "OP17-112",
+   "variant": "manga",
+   "print": "original",
+   "setCode": "OP17",
+   "setName": "The World's Strongest Warriors",
+   "name": "Charlotte Linlin",
+   "nameJa": "シャーロット・リンリン",
+   "rarity": "SR",
+   "en": {
+    "productId": 708072,
+    "productName": "Charlotte Linlin (112) (Manga)",
+    "groupId": 24736,
+    "groupName": "The World's Strongest Warriors",
+    "url": "https://www.tcgplayer.com/product/708072/one-piece-card-game-the-worlds-strongest-warriors-charlotte-linlin-112-manga",
+    "thumb": "https://tcgplayer-cdn.tcgplayer.com/product/708072_200w.jpg",
+    "image": "https://tcgplayer-cdn.tcgplayer.com/product/708072_in_1000x1000.jpg",
+    "released": "2026-08-28"
+   },
+   "jp": {
+    "ver": "op17",
+    "yuyuteiId": "10147",
+    "listingName": "シャーロット・リンリン(パラレル)(スーパーパラレル)",
+    "url": "https://yuyu-tei.jp/sell/opc/card/op17/10147",
+    "thumb": "https://card.yuyu-tei.jp/opc/100_140/op17/10147.jpg",
+    "image": "https://card.yuyu-tei.jp/opc/front/op17/10147.jpg"
+   },
+   "price": {
+    "en": {
+     "market": 758.96,
+     "low": 560,
+     "mid": 749.73
+    },
+    "jp": {
+     "sell": 79800,
+     "buy": 60000,
+     "stock": 0
+    }
+   }
+  },
+  {
+   "id": "OP18-031",
+   "number": "OP18-031",
+   "variant": "manga",
+   "print": "original",
+   "setCode": "OP18",
+   "setName": "The Dominance of God",
+   "name": "Nico Robin",
+   "nameJa": null,
+   "rarity": "SR",
+   "en": {
+    "productId": 712893,
+    "productName": "Nico Robin (Manga)",
+    "groupId": 24833,
+    "groupName": "The Dominance of God",
+    "url": "https://www.tcgplayer.com/product/712893/one-piece-card-game-the-dominance-of-god-nico-robin-manga",
+    "thumb": "https://tcgplayer-cdn.tcgplayer.com/product/712893_200w.jpg",
+    "image": "https://tcgplayer-cdn.tcgplayer.com/product/712893_in_1000x1000.jpg",
+    "released": "2026-11-20"
+   },
+   "jp": null,
+   "price": {
+    "en": null,
+    "jp": null
+   }
+  }
+ ]
+}

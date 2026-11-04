@@ -1,0 +1,19 @@
+{
+  "name": "one-piece-manga-tracker",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Price tracker for One Piece Card Game manga rares, English (TCGplayer) and Japanese (Yuyu-tei).",
+  "type": "module",
+  "engines": {
+    "node": ">=18"
+  },
+  "scripts": {
+    "update": "node scripts/update.mjs",
+    "backfill": "node scripts/backfill-en.mjs",
+    "serve": "node scripts/serve.mjs",
+    "test": "node --test tests/*.test.mjs"
+  },
+  "devDependencies": {
+    "7zip-bin": "^5.2.0"
+  }
+}
