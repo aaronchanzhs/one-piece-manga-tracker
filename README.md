@@ -26,13 +26,16 @@ Japanese history can't be backfilled because Yuyu-tei keeps no price archive. It
 
 ## Keeping it updated
 
-You need to run `npm run update` once a day. Pick one of these ways:
+Two jobs keep the site current, and each one covers something the other can't:
 
-1. **GitHub (recommended).** Push this folder to a GitHub repo and set Settings → Pages → Source to "GitHub Actions". The workflow in `.github/workflows/update-and-deploy.yml` then fetches prices every day at 21:30 UTC, commits them, and publishes the site to GitHub Pages.
-2. **Your Mac.** Add a cron job with `crontab -e`:
-   ```
-   30 6 * * * cd /path/to/One-Piece-Tracker && /path/to/node scripts/update.mjs >> update.log 2>&1
-   ```
+1. **GitHub Actions** (`.github/workflows/update-and-deploy.yml`) runs at 21:30 UTC every day. It refreshes **English prices only**, commits them, and publishes the site to GitHub Pages. Yuyu-tei blocks GitHub's servers (HTTP 403), so this run keeps the previous Japanese prices and the site marks them "as of" their date.
+2. **Your Mac** runs [`scripts/daily-local.sh`](scripts/daily-local.sh) every morning. It pulls, runs the update with **both** sources, then commits and pushes; the push redeploys the site. A LaunchAgent (macOS's per-user scheduler) at `~/Library/LaunchAgents/com.onepiece.manga-tracker.plist` schedules it for 09:00. If the Mac is asleep at 09:00, macOS runs the job on wake. If the Mac is off, that day's Japanese prices are skipped.
+
+```bash
+tail -n 20 ~/Library/Logs/one-piece-manga-tracker.log                    # see recent runs
+launchctl kickstart gui/$(id -u)/com.onepiece.manga-tracker               # run it now
+launchctl bootout gui/$(id -u) ~/Library/LaunchAgents/com.onepiece.manga-tracker.plist   # turn it off
+```
 
 ## Which cards count as manga rares
 
