@@ -87,17 +87,41 @@ async function main() {
   }
 
   const jpById = new Map(jpCards.map((j) => [`${j.ver}/${j.yuyuteiId}`, j]));
+  const prevById = new Map(previous.cards.map((c) => [c.id, c]));
+  const enOk = enPrices.size > 0;
+  const jpOk = jpCards.length > 0;
 
   const cards = catalog.map((c) => {
-    const en = c.en ? pickPrice(enPrices.get(c.en.productId)) : null;
-    const jpListing = c.jp ? jpById.get(`${c.jp.ver}/${c.jp.yuyuteiId}`) : null;
-    const jp = jpListing ? { sell: jpListing.priceJpy, buy: jpListing.buyJpy, stock: jpListing.stock } : null;
+    const prev = prevById.get(c.id)?.price;
+    let en = null;
+    let enAsOf = null;
+    let jp = null;
+    let jpAsOf = null;
 
+    if (enOk) {
+      en = c.en ? pickPrice(enPrices.get(c.en.productId)) : null;
+      enAsOf = en ? today : null;
+    } else if (prev?.en) {
+      // Source down today: keep the last known prices, dated, instead of blanking them.
+      en = prev.en;
+      enAsOf = prev.enAsOf ?? previous.date ?? null;
+    }
+
+    if (jpOk) {
+      const listing = c.jp ? jpById.get(`${c.jp.ver}/${c.jp.yuyuteiId}`) : null;
+      jp = listing ? { sell: listing.priceJpy, buy: listing.buyJpy, stock: listing.stock } : null;
+      jpAsOf = jp ? today : null;
+    } else if (prev?.jp) {
+      jp = prev.jp;
+      jpAsOf = prev.jpAsOf ?? previous.date ?? null;
+    }
+
+    // History only gets points that were actually fetched today.
     const h = (history.cards[c.id] ??= { en: [], jp: [] });
-    if (en && (en.market != null || en.low != null)) upsert(h.en, [today, en.market, en.low]);
-    if (jp && (jp.sell != null || jp.buy != null)) upsert(h.jp, [today, jp.sell, jp.buy, jp.stock]);
+    if (enAsOf === today && (en.market != null || en.low != null)) upsert(h.en, [today, en.market, en.low]);
+    if (jpAsOf === today && (jp.sell != null || jp.buy != null)) upsert(h.jp, [today, jp.sell, jp.buy, jp.stock]);
 
-    return { ...c, price: { en, jp } };
+    return { ...c, price: { en, enAsOf, jp, jpAsOf } };
   });
 
   const out = {

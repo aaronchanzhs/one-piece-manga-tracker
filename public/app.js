@@ -109,6 +109,9 @@ function enrich(c) {
     jpSell: jp?.sell ?? null,
     jpBuy: jp?.buy ?? null,
     jpStock: jp?.stock ?? null,
+    // Set when a source was down on the latest update and older prices were kept.
+    enStale: c.price?.enAsOf && c.price.enAsOf < state.data.date ? c.price.enAsOf : null,
+    jpStale: c.price?.jpAsOf && c.price.jpAsOf < state.data.date ? c.price.jpAsOf : null,
     enChg: changeOver(h.en, enPointValue, 30),
     jpChg: changeOver(h.jp, jpPointValue, 30),
     released: c.en?.released ?? null,
@@ -183,7 +186,7 @@ function enRow(c) {
     return `<div class="prow"><span class="flag en">EN</span><span class="na">${c.released > state.data.date ? 'Releases ' + esc(c.released) : 'No price data'}</span></div>`;
   const conv = state.cur === 'JPY' ? `<small>${fmtMoney(c.enUsd, 'USD')}</small>` : '';
   return `<div class="prow"><span class="flag en">EN</span><span class="pval">${fmtMoney(usdTo(c.enUsd))}${conv}</span>${chgHtml(c.enChg)}
-    ${c.enListed ? '<span class="psub">lowest listing, no recent sales</span>' : ''}</div>`;
+    ${c.enListed || c.enStale ? `<span class="psub">${[c.enStale ? `as of ${esc(c.enStale)}` : '', c.enListed ? 'lowest listing, no recent sales' : ''].filter(Boolean).join(' · ')}</span>` : ''}</div>`;
 }
 
 function jpRow(c) {
@@ -192,8 +195,9 @@ function jpRow(c) {
   const conv = state.cur === 'USD' && c.jpSell != null ? `<small>${fmtMoney(c.jpSell, 'JPY')}</small>` : '';
   const stock = c.jpStock === 0 ? 'sold out' : c.jpStock ? `${c.jpStock} in stock` : '';
   const buy = c.jpBuy != null ? `buy ${fmtMoney(jpyTo(c.jpBuy))}` : '';
+  const stale = c.jpStale ? `as of ${esc(c.jpStale)}` : '';
   return `<div class="prow"><span class="flag jp">JP</span><span class="pval">${fmtMoney(jpyTo(c.jpSell))}${conv}</span>${chgHtml(c.jpChg)}
-    <span class="psub">${[stock, buy].filter(Boolean).join(' · ')}</span></div>`;
+    <span class="psub">${[stale, stock, buy].filter(Boolean).join(' · ')}</span></div>`;
 }
 
 function tileHtml(c) {
@@ -354,7 +358,7 @@ function openDetail(id) {
                 <dt>In yen</dt><dd>${fmtMoney(c.jpSell, 'JPY')} / ${fmtMoney(c.jpBuy, 'JPY')}</dd>
                 <dt>Stock</dt><dd>${c.jpStock == null ? '—' : c.jpStock === 0 ? 'Sold out' : c.jpStock}</dd>
                 <dt>30 days</dt><dd>${chgHtml(c.jpChg)}</dd>
-              </dl>${c.jpStock === 0 ? '<p class="chart-note">Sold out: the sell price is Yuyu-tei\'s last asking price. The buy price is current.</p>' : ''}`
+              </dl>${c.jpStale ? `<p class="chart-note">Yuyu-tei couldn't be reached on the latest update. These prices are from ${esc(c.jpStale)}.</p>` : ''}${c.jpStock === 0 ? '<p class="chart-note">Sold out: the sell price is Yuyu-tei\'s last asking price. The buy price is current.</p>' : ''}`
                 : '<p class="na">No Japanese listing on Yuyu-tei.</p>'
             }
           </section>
