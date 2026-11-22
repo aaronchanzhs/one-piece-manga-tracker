@@ -1,19 +1,17 @@
 {
- "updatedAt": "2026-11-21T02:40:31.105Z",
- "date": "2026-11-21",
+ "updatedAt": "2026-11-22T01:00:12.233Z",
+ "date": "2026-11-22",
  "usdJpy": 158.64,
  "sources": {
   "tcgplayer": {
    "via": "tcgcsv.com",
-   "lastUpdated": "2026-11-20T20:06:21+0000"
+   "lastUpdated": "2026-11-21T20:06:04+0000"
   },
   "yuyutei": {
-   "fetched": false
+   "fetched": true
   }
  },
- "warnings": [
-  "Yuyu-tei fetch failed: HTTP 403 for https://yuyu-tei.jp/sell/opc/s/search?search_word=%E3%82%B9%E3%83%BC%E3%83%91%E3%83%BC%E3%83%91%E3%83%A9%E3%83%AC%E3%83%AB"
- ],
+ "warnings": [],
  "cards": [
   {
    "id": "EB01-006",
@@ -49,13 +47,13 @@
      "low": 4100,
      "mid": 4649
     },
-    "enAsOf": "2026-11-21",
+    "enAsOf": "2026-11-22",
     "jp": {
      "sell": 198000,
      "buy": 120000,
      "stock": 0
     },
-    "jpAsOf": "2026-11-21"
+    "jpAsOf": "2026-11-22"
    }
   },
   {
@@ -85,7 +83,7 @@
      "low": 2999.99,
      "mid": 26500.49
     },
-    "enAsOf": "2026-11-21",
+    "enAsOf": "2026-11-22",
     "jp": null,
     "jpAsOf": null
    }
@@ -124,13 +122,13 @@
      "low": 4500,
      "mid": 4999.99
     },
-    "enAsOf": "2026-11-21",
+    "enAsOf": "2026-11-22",
     "jp": {
      "sell": 398000,
      "buy": 300000,
      "stock": 0
     },
-    "jpAsOf": "2026-11-21"
+    "jpAsOf": "2026-11-22"
    }
   },
   {
@@ -165,15 +163,15 @@
     "en": {
      "market": 902.26,
      "low": 743.33,
-     "mid": 901.13
+     "mid": 902.26
     },
-    "enAsOf": "2026-11-21",
+    "enAsOf": "2026-11-22",
     "jp": {
      "sell": 99800,
      "buy": 70000,
      "stock": 0
     },
-    "jpAsOf": "2026-11-21"
+    "jpAsOf": "2026-11-22"
    }
   },
   {
@@ -207,16 +205,16 @@
    "price": {
     "en": {
      "market": 569.92,
-     "low": 426.65,
-     "mid": 517.18
+     "low": 419.99,
+     "mid": 529.3
     },
-    "enAsOf": "2026-11-21",
+    "enAsOf": "2026-11-22",
     "jp": {
      "sell": 79800,
      "buy": 55000,
      "stock": 0
     },
-    "jpAsOf": "2026-11-21"
+    "jpAsOf": "2026-11-22"
    }
   },
   {
@@ -249,17 +247,17 @@
    },
    "price": {
     "en": {
-     "market": 1266.95,
-     "low": 1220,
-     "mid": 1914.99
+     "market": 1262.75,
+     "low": 1186.9,
+     "mid": 1354.99
     },
-    "enAsOf": "2026-11-21",
+    "enAsOf": "2026-11-22",
     "jp": {
      "sell": 128000,
      "buy": 90000,
      "stock": 0
     },
-    "jpAsOf": "2026-11-21"
+    "jpAsOf": "2026-11-22"
    }
   },
   {
@@ -292,17 +290,17 @@
    },
    "price": {
     "en": {
-     "market": 523.42,
-     "low": 429.5,
-     "mid": 529.99
+     "market": 507.21,
+     "low": 415,
+     "mid": 523.42
     },
-    "enAsOf": "2026-11-21",
+    "enAsOf": "2026-11-22",
     "jp": {
      "sell": 79800,
      "buy": 55000,
      "stock": 0
     },
-    "jpAsOf": "2026-11-21"
+    "jpAsOf": "2026-11-22"
    }
   },
   {
@@ -337,15 +335,15 @@
     "en": {
      "market": 2043.68,
      "low": 1601.24,
-     "mid": 2036.83
+     "mid": 2029.97
     },
-    "enAsOf": "2026-11-21",
+    "enAsOf": "2026-11-22",
     "jp": {
      "sell": 99800,
      "buy": 60000,
      "stock": 0
     },
-    "jpAsOf": "2026-11-21"
+    "jpAsOf": "2026-11-22"
    }
   },
   {
@@ -380,15 +378,15 @@
     "en": {
      "market": 3998.74,
      "low": 2400,
-     "mid": 3117.3
+     "mid": 2499.99
     },
-    "enAsOf": "2026-11-21",
+    "enAsOf": "2026-11-22",
     "jp": {
      "sell": 128000,
      "buy": 90000,
      "stock": 0
     },
-    "jpAsOf": "2026-11-21"
+    "jpAsOf": "2026-11-22"
    }
   },
   {
@@ -422,16 +420,16 @@
    "price": {
     "en": {
      "market": 1221.56,
-     "low": 1160,
+     "low": 1156,
      "mid": 1221.56
     },
-    "enAsOf": "2026-11-21",
+    "enAsOf": "2026-11-22",
     "jp": {
      "sell": 198000,
      "buy": 100000,
      "stock": 0
     },
-    "jpAsOf": "2026-11-21"
+    "jpAsOf": "2026-11-22"
    }
   },
   {
@@ -468,13 +466,13 @@
      "low": 2104.3,
      "mid": 2994.99
     },
-    "enAsOf": "2026-11-21",
+    "enAsOf": "2026-11-22",
     "jp": {
      "sell": 148000,
      "buy": 80000,
      "stock": 0
     },
-    "jpAsOf": "2026-11-21"
+    "jpAsOf": "2026-11-22"
    }
   },
   {
@@ -511,13 +509,13 @@
      "low": 2039.95,
      "mid": 2400
     },
-    "enAsOf": "2026-11-21",
+    "enAsOf": "2026-11-22",
     "jp": {
      "sell": 198000,
      "buy": 100000,
      "stock": 0
     },
-    "jpAsOf": "2026-11-21"
+    "jpAsOf": "2026-11-22"
    }
   },
   {
@@ -552,15 +550,15 @@
     "en": {
      "market": 919.56,
      "low": 749.99,
-     "mid": 999.94
+     "mid": 962.8
     },
-    "enAsOf": "2026-11-21",
+    "enAsOf": "2026-11-22",
     "jp": {
      "sell": 79800,
      "buy": 40000,
      "stock": 1
     },
-    "jpAsOf": "2026-11-21"
+    "jpAsOf": "2026-11-22"
    }
   },
   {
@@ -597,13 +595,13 @@
      "low": 714,
      "mid": 1191.5
     },
-    "enAsOf": "2026-11-21",
+    "enAsOf": "2026-11-22",
     "jp": {
      "sell": 79800,
      "buy": 40000,
      "stock": 0
     },
-    "jpAsOf": "2026-11-21"
+    "jpAsOf": "2026-11-22"
    }
   },
   {
@@ -640,13 +638,13 @@
      "low": 584.99,
      "mid": 688
     },
-    "enAsOf": "2026-11-21",
+    "enAsOf": "2026-11-22",
     "jp": {
      "sell": 99800,
      "buy": 50000,
      "stock": 0
     },
-    "jpAsOf": "2026-11-21"
+    "jpAsOf": "2026-11-22"
    }
   },
   {
@@ -681,15 +679,15 @@
     "en": {
      "market": 684.32,
      "low": 662,
-     "mid": 700
+     "mid": 725
     },
-    "enAsOf": "2026-11-21",
+    "enAsOf": "2026-11-22",
     "jp": {
      "sell": 99800,
      "buy": 50000,
      "stock": 0
     },
-    "jpAsOf": "2026-11-21"
+    "jpAsOf": "2026-11-22"
    }
   },
   {
@@ -726,13 +724,13 @@
      "low": 1649.99,
      "mid": 2000
     },
-    "enAsOf": "2026-11-21",
+    "enAsOf": "2026-11-22",
     "jp": {
      "sell": 128000,
      "buy": 70000,
      "stock": 0
     },
-    "jpAsOf": "2026-11-21"
+    "jpAsOf": "2026-11-22"
    }
   },
   {
@@ -762,7 +760,7 @@
      "low": 900,
      "mid": 981.3
     },
-    "enAsOf": "2026-11-21",
+    "enAsOf": "2026-11-22",
     "jp": null,
     "jpAsOf": null
    }
@@ -799,15 +797,15 @@
     "en": {
      "market": 925.5,
      "low": 699.99,
-     "mid": 795
+     "mid": 776.5
     },
-    "enAsOf": "2026-11-21",
+    "enAsOf": "2026-11-22",
     "jp": {
      "sell": 79800,
      "buy": 40000,
      "stock": 0
     },
-    "jpAsOf": "2026-11-21"
+    "jpAsOf": "2026-11-22"
    }
   },
   {
@@ -837,7 +835,7 @@
      "low": 766.91,
      "mid": 833.3
     },
-    "enAsOf": "2026-11-21",
+    "enAsOf": "2026-11-22",
     "jp": null,
     "jpAsOf": null
    }
@@ -876,13 +874,13 @@
      "low": 8500,
      "mid": 20000
     },
-    "enAsOf": "2026-11-21",
+    "enAsOf": "2026-11-22",
     "jp": {
      "sell": 598000,
      "buy": 400000,
      "stock": 0
     },
-    "jpAsOf": "2026-11-21"
+    "jpAsOf": "2026-11-22"
    }
   },
   {
@@ -912,7 +910,7 @@
      "low": 5000,
      "mid": 7499.98
     },
-    "enAsOf": "2026-11-21",
+    "enAsOf": "2026-11-22",
     "jp": null,
     "jpAsOf": null
    }
@@ -951,13 +949,13 @@
      "low": 2998.41,
      "mid": 3177
     },
-    "enAsOf": "2026-11-21",
+    "enAsOf": "2026-11-22",
     "jp": {
      "sell": 198000,
      "buy": 160000,
      "stock": 0
     },
-    "jpAsOf": "2026-11-21"
+    "jpAsOf": "2026-11-22"
    }
   },
   {
@@ -987,7 +985,7 @@
      "low": 3000,
      "mid": 3000.5
     },
-    "enAsOf": "2026-11-21",
+    "enAsOf": "2026-11-22",
     "jp": null,
     "jpAsOf": null
    }
@@ -1023,16 +1021,16 @@
    "price": {
     "en": {
      "market": 2338.11,
-     "low": 1599.99,
-     "mid": 2419.75
+     "low": 1550,
+     "mid": 2400
     },
-    "enAsOf": "2026-11-21",
+    "enAsOf": "2026-11-22",
     "jp": {
      "sell": 148000,
      "buy": 100000,
      "stock": 0
     },
-    "jpAsOf": "2026-11-21"
+    "jpAsOf": "2026-11-22"
    }
   },
   {
@@ -1069,13 +1067,13 @@
      "low": 1685.99,
      "mid": 1994.99
     },
-    "enAsOf": "2026-11-21",
+    "enAsOf": "2026-11-22",
     "jp": {
      "sell": 148000,
      "buy": 100000,
      "stock": 0
     },
-    "jpAsOf": "2026-11-21"
+    "jpAsOf": "2026-11-22"
    }
   },
   {
@@ -1110,15 +1108,15 @@
     "en": {
      "market": 498.39,
      "low": 400,
-     "mid": 499.96
+     "mid": 499.92
     },
-    "enAsOf": "2026-11-21",
+    "enAsOf": "2026-11-22",
     "jp": {
      "sell": 69800,
      "buy": 35000,
      "stock": 0
     },
-    "jpAsOf": "2026-11-21"
+    "jpAsOf": "2026-11-22"
    }
   },
   {
@@ -1153,15 +1151,15 @@
     "en": {
      "market": 1795,
      "low": 1500,
-     "mid": 2000
+     "mid": 1775
     },
-    "enAsOf": "2026-11-21",
+    "enAsOf": "2026-11-22",
     "jp": {
      "sell": 148000,
      "buy": 75000,
      "stock": 0
     },
-    "jpAsOf": "2026-11-21"
+    "jpAsOf": "2026-11-22"
    }
   },
   {
@@ -1194,17 +1192,17 @@
    },
    "price": {
     "en": {
-     "market": 1505.5,
+     "market": 1360.99,
      "low": 1189.89,
-     "mid": 1378.15
+     "mid": 1360.99
     },
-    "enAsOf": "2026-11-21",
+    "enAsOf": "2026-11-22",
     "jp": {
      "sell": 99800,
      "buy": 50000,
      "stock": 0
     },
-    "jpAsOf": "2026-11-21"
+    "jpAsOf": "2026-11-22"
    }
   },
   {
@@ -1239,15 +1237,15 @@
     "en": {
      "market": 1850.31,
      "low": 1200,
-     "mid": 2200
+     "mid": 2000
     },
-    "enAsOf": "2026-11-21",
+    "enAsOf": "2026-11-22",
     "jp": {
      "sell": 128000,
      "buy": 70000,
      "stock": 0
     },
-    "jpAsOf": "2026-11-21"
+    "jpAsOf": "2026-11-22"
    }
   },
   {
@@ -1281,16 +1279,16 @@
    "price": {
     "en": {
      "market": null,
-     "low": 12000,
-     "mid": 13500
+     "low": 11999.99,
+     "mid": 12000
     },
-    "enAsOf": "2026-11-21",
+    "enAsOf": "2026-11-22",
     "jp": {
      "sell": 498000,
      "buy": 380000,
      "stock": 0
     },
-    "jpAsOf": "2026-11-21"
+    "jpAsOf": "2026-11-22"
    }
   },
   {
@@ -1324,16 +1322,16 @@
    "price": {
     "en": {
      "market": null,
-     "low": 2450.99,
-     "mid": 2725.49
+     "low": 2450,
+     "mid": 2450.99
     },
-    "enAsOf": "2026-11-21",
+    "enAsOf": "2026-11-22",
     "jp": {
      "sell": 248000,
      "buy": 180000,
      "stock": 0
     },
-    "jpAsOf": "2026-11-21"
+    "jpAsOf": "2026-11-22"
    }
   },
   {
@@ -1367,16 +1365,16 @@
    "price": {
     "en": {
      "market": 661.35,
-     "low": 558,
-     "mid": 641.89
+     "low": 549.99,
+     "mid": 631.39
     },
-    "enAsOf": "2026-11-21",
+    "enAsOf": "2026-11-22",
     "jp": {
      "sell": 79800,
      "buy": 40000,
      "stock": 0
     },
-    "jpAsOf": "2026-11-21"
+    "jpAsOf": "2026-11-22"
    }
   },
   {
@@ -1411,15 +1409,15 @@
     "en": {
      "market": 1327.28,
      "low": 750,
-     "mid": 1112.5
+     "mid": 1100
     },
-    "enAsOf": "2026-11-21",
+    "enAsOf": "2026-11-22",
     "jp": {
      "sell": 148000,
      "buy": 100000,
      "stock": 0
     },
-    "jpAsOf": "2026-11-21"
+    "jpAsOf": "2026-11-22"
    }
   },
   {
@@ -1453,16 +1451,16 @@
    "price": {
     "en": {
      "market": 703.51,
-     "low": 599.54,
-     "mid": 703.51
+     "low": 560,
+     "mid": 700
     },
-    "enAsOf": "2026-11-21",
+    "enAsOf": "2026-11-22",
     "jp": {
      "sell": 79800,
      "buy": 55000,
      "stock": 0
     },
-    "jpAsOf": "2026-11-21"
+    "jpAsOf": "2026-11-22"
    }
   },
   {
@@ -1497,15 +1495,15 @@
     "en": {
      "market": 2208.62,
      "low": 2362.49,
-     "mid": 2537.49
+     "mid": 2499.99
     },
-    "enAsOf": "2026-11-21",
+    "enAsOf": "2026-11-22",
     "jp": {
      "sell": 198000,
      "buy": 160000,
      "stock": 0
     },
-    "jpAsOf": "2026-11-21"
+    "jpAsOf": "2026-11-22"
    }
   },
   {
@@ -1542,13 +1540,13 @@
      "low": 75000,
      "mid": 87499.5
     },
-    "enAsOf": "2026-11-21",
+    "enAsOf": "2026-11-22",
     "jp": {
      "sell": 1280000,
      "buy": 900000,
      "stock": 0
     },
-    "jpAsOf": "2026-11-21"
+    "jpAsOf": "2026-11-22"
    }
   },
   {
@@ -1583,15 +1581,15 @@
     "en": {
      "market": 1023.23,
      "low": 924.95,
-     "mid": 1054.5
+     "mid": 1016.62
     },
-    "enAsOf": "2026-11-21",
+    "enAsOf": "2026-11-22",
     "jp": {
      "sell": 128000,
      "buy": 70000,
      "stock": 0
     },
-    "jpAsOf": "2026-11-21"
+    "jpAsOf": "2026-11-22"
    }
   },
   {
@@ -1628,13 +1626,13 @@
      "low": 4499.99,
      "mid": 5250
     },
-    "enAsOf": "2026-11-21",
+    "enAsOf": "2026-11-22",
     "jp": {
      "sell": 498000,
      "buy": 380000,
      "stock": 0
     },
-    "jpAsOf": "2026-11-21"
+    "jpAsOf": "2026-11-22"
    }
   },
   {
@@ -1668,16 +1666,16 @@
    "price": {
     "en": {
      "market": 748.63,
-     "low": 699.69,
-     "mid": 748.73
+     "low": 650,
+     "mid": 748.62
     },
-    "enAsOf": "2026-11-21",
+    "enAsOf": "2026-11-22",
     "jp": {
      "sell": 79800,
      "buy": 55000,
      "stock": 0
     },
-    "jpAsOf": "2026-11-21"
+    "jpAsOf": "2026-11-22"
    }
   },
   {
@@ -1714,13 +1712,13 @@
      "low": 4298.88,
      "mid": 4299
     },
-    "enAsOf": "2026-11-21",
+    "enAsOf": "2026-11-22",
     "jp": {
      "sell": 298000,
      "buy": 220000,
      "stock": 0
     },
-    "jpAsOf": "2026-11-21"
+    "jpAsOf": "2026-11-22"
    }
   },
   {
@@ -1754,16 +1752,16 @@
    "price": {
     "en": {
      "market": 693.64,
-     "low": 558,
-     "mid": 621.92
+     "low": 550,
+     "mid": 629
     },
-    "enAsOf": "2026-11-21",
+    "enAsOf": "2026-11-22",
     "jp": {
      "sell": 79800,
      "buy": 40000,
      "stock": 0
     },
-    "jpAsOf": "2026-11-21"
+    "jpAsOf": "2026-11-22"
    }
   },
   {
@@ -1797,16 +1795,16 @@
    "price": {
     "en": {
      "market": 850.87,
-     "low": 657.48,
-     "mid": 685
+     "low": 632.61,
+     "mid": 686.35
     },
-    "enAsOf": "2026-11-21",
+    "enAsOf": "2026-11-22",
     "jp": {
      "sell": 99800,
      "buy": 50000,
      "stock": 0
     },
-    "jpAsOf": "2026-11-21"
+    "jpAsOf": "2026-11-22"
    }
   },
   {
@@ -1840,16 +1838,16 @@
    "price": {
     "en": {
      "market": 1058.78,
-     "low": 582.88,
-     "mid": 799.99
+     "low": 550.57,
+     "mid": 775
     },
-    "enAsOf": "2026-11-21",
+    "enAsOf": "2026-11-22",
     "jp": {
      "sell": 148000,
      "buy": 75000,
      "stock": 0
     },
-    "jpAsOf": "2026-11-21"
+    "jpAsOf": "2026-11-22"
    }
   },
   {
@@ -1884,15 +1882,15 @@
     "en": {
      "market": 1073.42,
      "low": 700,
-     "mid": 839.99
+     "mid": 839
     },
-    "enAsOf": "2026-11-21",
+    "enAsOf": "2026-11-22",
     "jp": {
      "sell": 148000,
      "buy": 75000,
      "stock": 0
     },
-    "jpAsOf": "2026-11-21"
+    "jpAsOf": "2026-11-22"
    }
   },
   {
@@ -1926,16 +1924,16 @@
    "price": {
     "en": {
      "market": 986.97,
-     "low": 598.86,
-     "mid": 770
+     "low": 573.48,
+     "mid": 737.5
     },
-    "enAsOf": "2026-11-21",
+    "enAsOf": "2026-11-22",
     "jp": {
      "sell": 148000,
      "buy": 75000,
      "stock": 0
     },
-    "jpAsOf": "2026-11-21"
+    "jpAsOf": "2026-11-22"
    }
   },
   {
@@ -1970,15 +1968,15 @@
     "en": {
      "market": 1058.07,
      "low": 718.7,
-     "mid": 900
+     "mid": 869.99
     },
-    "enAsOf": "2026-11-21",
+    "enAsOf": "2026-11-22",
     "jp": {
      "sell": 79800,
      "buy": 60000,
      "stock": 0
     },
-    "jpAsOf": "2026-11-21"
+    "jpAsOf": "2026-11-22"
    }
   },
   {
@@ -2012,16 +2010,16 @@
    "price": {
     "en": {
      "market": 1451.59,
-     "low": 1000,
-     "mid": 1100
+     "low": 975,
+     "mid": 1090
     },
-    "enAsOf": "2026-11-21",
+    "enAsOf": "2026-11-22",
     "jp": {
      "sell": 148000,
      "buy": 80000,
      "stock": 0
     },
-    "jpAsOf": "2026-11-21"
+    "jpAsOf": "2026-11-22"
    }
   },
   {
@@ -2055,16 +2053,16 @@
    "price": {
     "en": {
      "market": 902.48,
-     "low": 680.01,
-     "mid": 902.48
+     "low": 680,
+     "mid": 901.24
     },
-    "enAsOf": "2026-11-21",
+    "enAsOf": "2026-11-22",
     "jp": {
      "sell": 79800,
      "buy": 35000,
      "stock": 0
     },
-    "jpAsOf": "2026-11-21"
+    "jpAsOf": "2026-11-22"
    }
   },
   {
@@ -2099,15 +2097,15 @@
     "en": {
      "market": 1004.26,
      "low": 788,
-     "mid": 1110
+     "mid": 1089.8
     },
-    "enAsOf": "2026-11-21",
+    "enAsOf": "2026-11-22",
     "jp": {
      "sell": 128000,
      "buy": 65000,
      "stock": 0
     },
-    "jpAsOf": "2026-11-21"
+    "jpAsOf": "2026-11-22"
    }
   },
   {
@@ -2141,16 +2139,16 @@
    "price": {
     "en": {
      "market": 709.14,
-     "low": 480.68,
-     "mid": 624.98
+     "low": 480.37,
+     "mid": 600
     },
-    "enAsOf": "2026-11-21",
+    "enAsOf": "2026-11-22",
     "jp": {
      "sell": 79800,
      "buy": 60000,
      "stock": 0
     },
-    "jpAsOf": "2026-11-21"
+    "jpAsOf": "2026-11-22"
    }
   },
   {
@@ -2161,7 +2159,7 @@
    "setCode": "OP18",
    "setName": "The Dominance of God",
    "name": "Nico Robin",
-   "nameJa": null,
+   "nameJa": "ニコ・ロビン",
    "rarity": "SR",
    "en": {
     "productId": 712893,
@@ -2173,16 +2171,100 @@
     "image": "https://tcgplayer-cdn.tcgplayer.com/product/712893_in_1000x1000.jpg",
     "released": "2026-11-20"
    },
-   "jp": null,
+   "jp": {
+    "ver": "op18",
+    "yuyuteiId": "10039",
+    "listingName": "ニコ・ロビン(パラレル)(スーパーパラレル)",
+    "url": "https://yuyu-tei.jp/sell/opc/card/op18/10039",
+    "thumb": "https://card.yuyu-tei.jp/opc/100_140/op18/10039.jpg",
+    "image": "https://card.yuyu-tei.jp/opc/front/op18/10039.jpg"
+   },
    "price": {
     "en": {
-     "market": 1500,
-     "low": 1500,
-     "mid": 2149.99
+     "market": 1385.85,
+     "low": 1205,
+     "mid": 1299.97
     },
-    "enAsOf": "2026-11-21",
-    "jp": null,
-    "jpAsOf": null
+    "enAsOf": "2026-11-22",
+    "jp": {
+     "sell": 89800,
+     "buy": 60000,
+     "stock": 0
+    },
+    "jpAsOf": "2026-11-22"
+   }
+  },
+  {
+   "id": "OP18-060",
+   "number": "OP18-060",
+   "variant": "manga",
+   "print": "original",
+   "setCode": "OP18",
+   "setName": "The Dominance of God",
+   "name": "Saint Gunko",
+   "nameJa": "軍子宮",
+   "rarity": "L",
+   "en": {
+    "productId": 731750,
+    "productName": "Saint Gunko (060) (Super Leader Alternate Art)",
+    "groupId": 24833,
+    "groupName": "The Dominance of God",
+    "url": "https://www.tcgplayer.com/product/731750/one-piece-card-game-the-dominance-of-god-saint-gunko-060-super-leader-alternate-art",
+    "thumb": "https://tcgplayer-cdn.tcgplayer.com/product/731750_200w.jpg",
+    "image": "https://tcgplayer-cdn.tcgplayer.com/product/731750_in_1000x1000.jpg",
+    "released": "2026-11-20"
+   },
+   "jp": {
+    "ver": "op18",
+    "yuyuteiId": "10075",
+    "listingName": "軍子宮(パラレル)(スーパーパラレル)",
+    "url": "https://yuyu-tei.jp/sell/opc/card/op18/10075",
+    "thumb": null,
+    "image": null
+   },
+   "price": {
+    "en": {
+     "market": 1010.96,
+     "low": 790,
+     "mid": 900
+    },
+    "enAsOf": "2026-11-22",
+    "jp": {
+     "sell": 79800,
+     "buy": 60000,
+     "stock": 0
+    },
+    "jpAsOf": "2026-11-22"
+   }
+  },
+  {
+   "id": "OP18-065",
+   "number": "OP18-065",
+   "variant": "manga",
+   "print": "original",
+   "setCode": "OP18",
+   "setName": "The Dominance of God",
+   "name": null,
+   "nameJa": "軍子宮",
+   "rarity": "SR",
+   "en": null,
+   "jp": {
+    "ver": "op18",
+    "yuyuteiId": "10084",
+    "listingName": "軍子宮(パラレル)(神の騎士団スーパーパラレル)",
+    "url": "https://yuyu-tei.jp/sell/opc/card/op18/10084",
+    "thumb": null,
+    "image": null
+   },
+   "price": {
+    "en": null,
+    "enAsOf": null,
+    "jp": {
+     "sell": 498000,
+     "buy": 150000,
+     "stock": 0
+    },
+    "jpAsOf": "2026-11-22"
    }
   }
  ]
