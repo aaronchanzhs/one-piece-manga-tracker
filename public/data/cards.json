@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-11-28T01:00:13.420Z",
+ "updatedAt": "2026-11-28T03:26:29.330Z",
  "date": "2026-11-28",
  "usdJpy": 159.54,
  "sources": {
@@ -8,10 +8,12 @@
    "lastUpdated": "2026-11-27T20:06:22+0000"
   },
   "yuyutei": {
-   "fetched": true
+   "fetched": false
   }
  },
- "warnings": [],
+ "warnings": [
+  "Yuyu-tei fetch failed: HTTP 403 for https://yuyu-tei.jp/sell/opc/s/search?search_word=%E3%82%B9%E3%83%BC%E3%83%91%E3%83%BC%E3%83%91%E3%83%A9%E3%83%AC%E3%83%AB"
+ ],
  "cards": [
   {
    "id": "EB01-006",
@@ -2256,6 +2258,7 @@
     "thumb": null,
     "image": null
    },
+   "stale": true,
    "price": {
     "en": null,
     "enAsOf": null,
